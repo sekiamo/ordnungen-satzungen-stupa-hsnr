@@ -84,12 +84,3 @@ Anker-ID nach demselben Schema geben (`p<§-Nummer>` bzw.
 `p<§-Nummer>-<Absatz-Nummer>`, basierend auf der Nummer zum Zeitpunkt der
 Einführung – die ID muss danach nicht mehr angepasst werden, auch wenn sich
 die sichtbare Nummer später ändert).
-
-## Bekannte Unstimmigkeiten aus den Original-Entwürfen
-
-Beim Konvertieren wurden ein paar Unstimmigkeiten sichtbar, die schon in den
-Original-Word-Dateien vorhanden waren (z.B. Absätze, die nicht bei (1)
-beginnen, oder Nummerierungssprünge). Diese wurden **nicht** automatisch
-korrigiert, sondern unverändert übernommen – das ist inhaltliche
-Redaktionsarbeit, die bewusst im Rahmen eines Pull Requests gemacht werden
-sollte, nicht stillschweigend bei der Formatkonvertierung.
