@@ -95,7 +95,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
    5. die Mitglieder des Vorstands des AStA.
 
 4) <a id="p8-4"></a>Beratende Mitglieder haben dauerhaftes Rede- und Antragsrecht. Sie haben kein Stimmrecht und können nicht in das Präsidium des StuPa gewählt werden. Sollte ein beratendes Mitglied zugleich ordentlich gewähltes, stimmberechtigtes Mitglied sein, behält es sein Stimmrecht.
-5) 3) <a id="p8-5"></a>Jeder Liste die Sich zur Wahl aufstellt, können Kosten, die im Rahmen des Wahlkampfes entstanden sind, erstatten werden
+5) <a id="p8-5"></a>Jeder Liste die Sich zur Wahl aufstellt, können Kosten, die im Rahmen des Wahlkampfes entstanden sind, erstatten werden
    1. Es sind maximal 400€ erstattbar.
    2. Es ist eine Abrechnung mit sämtlichen Belegen zu erstellen; nur belegte Kosten können erstattet werden.
    3. Die Abrechnung ist spätestens 14 Tage nach der Ergebnisverkündung beim AStA einzureichen.
