@@ -50,9 +50,9 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 ### § 5 Digitale Sitzungen  <a id="p5"></a>
 
-1) <a id="p5-1"></a>Mit Ausnahme des Studierendenparlaments dürfen alle Gremien der Studierendenschaft ihre Sitzungen digital oder hybrid abhalten, sofern ihre jeweilige Geschäftsordnung dies nicht ausschließt.
+1) <a id="p5-1"></a>Mit Ausnahme der Sitzung des Studierendenparlaments betrefffend der Wahlen zum Allgemeinen Studierendenausschuss dürfen alle Gremien der Studierendenschaft ihre Sitzungen in elektronischer Kommunikation oder hybrid abhalten, sofern ihre jeweilige Geschäftsordnung dies nicht ausschließt.
 
-2) <a id="p5-2"></a>Beschlüsse können, soweit nicht anders geregelt, auch im elektronischen Umlaufverfahren (Textform) gefasst werden.
+2) <a id="p5-2"></a>Beschlüsse können, soweit nicht anders geregelt, auch in elektronischer Kommunikation oder im Umlaufverfahren (Textform) gefasst werden.
 
 ### § 6 Bekanntgabe von Beschlüssen  <a id="p6"></a>
 
