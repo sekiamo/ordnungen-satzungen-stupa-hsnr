@@ -200,4 +200,50 @@ Anker-ID selbst (z.B. `p7a` für einen Paragraphen hinter § 7). Wer einen § od
 Absatz von Hand anlegt, vergibt die ID nach dem Schema `p<§-Nummer>` bzw.
 `p<§-Nummer>-<Absatz-Nummer>` selbst; sie muss im Dokument eindeutig sein und
 wird danach nie mehr angepasst, auch wenn sich die sichtbare Nummer später
-ändert.
+ändert. Die Absatz-IDs eines Paragraphen tragen dessen ID als Präfix: bei
+`p10a` also `p10a-1`, `p10a-2`, ... (nicht `p11-1`). Die Prüfung (nächster
+Abschnitt) meldet Abweichungen.
+
+## Querverweise prüfen
+
+Sobald jemand einen Paragraphen oder Absatz ändert, auf den anderswo verwiesen
+wird, muss sich der Verweis nicht mehr auf dasselbe beziehen. Damit das nicht
+unbemerkt bleibt, prüft `tools/check_verweise.py` bei jedem Push und Pull
+Request (Workflow `verweise-pruefen.yml`). Verweise sind alle Links auf einen
+Paragraphen oder Absatz, in derselben oder einer anderen Satzung/Ordnung. Die
+Liste aller Verweise steht in [`VERWEISE.md`](VERWEISE.md) und wird
+automatisch erzeugt.
+
+| Stufe | Auslöser | Wirkung |
+|---|---|---|
+| **Fehler** | Verweis zeigt auf einen Anker, den es nicht (mehr) gibt; ein Anker, auf den verwiesen wurde, ist verschwunden oder umbenannt; dieselbe Anker-ID kommt zweimal im Dokument vor | Prüfung schlägt fehl |
+| **Alarm** | Der Text eines Paragraphen/Absatzes, auf den verwiesen wird, wurde geändert; die Meldung nennt alle, die darauf verweisen | Prüfung schlägt fehl, bis die Verweise geprüft sind |
+| **Hinweis** | Absatz-ID passt nicht zum Paragraphen; ein Verweis im Fließtext („§ 5 Abs. 2“) meint eine Nummer, die sich verschoben hat; ein nicht verlinkter Anker ist verschwunden | nur Information |
+
+**Ein Alarm ist kein Fehler im Text**, sondern die Aufforderung: Öffne die
+genannten Stellen und prüfe, ob der Verweis noch passt. Danach im Pull Request
+das Label **`verweise-geprueft`** setzen (einmalig unter Issues → Labels
+anlegen); die Prüfung läuft dann durch. Wer direkt auf `main` schreibt, sieht
+den Alarm als rote Prüfung beim Commit und korrigiert bei Bedarf nach.
+
+Was zählt als Änderung? Der Vergleich läuft gegen den Stand vor dem Push bzw.
+gegen die Basis des Pull Requests. Ein Verweis auf einen **Paragraphen** löst
+bei jeder Änderung in einem seiner Absätze Alarm aus; ein Verweis auf einen
+**Absatz** nur bei Änderung dieses Absatzes. Umnummerierungen (`§ 5` wird
+`§ 6`) und Änderungen an Linkzielen zählen **nicht** als Textänderung.
+
+Damit die Prüfung greift, Verweise **als Link** schreiben
+(`[§ 10 Abs. 4](../satzung/satzung-der-studierendenschaft.md#p10-4)`), nicht
+nur als Text. Verweise im Fließtext erkennt das Skript nur als Hinweis. Ein
+Verweis auf ein anderes Dokument braucht dessen Anker-ID nach `#`.
+
+Lokal prüfen (vor dem Hochladen, prüft auch nicht versionierte Dateien wie
+lokale Geschäftsordnungen, die auf GitHub fehlen):
+
+```
+python tools/check_verweise.py                 # gegen origin/main
+python tools/check_verweise.py --base HEAD~1   # gegen einen anderen Stand
+python tools/check_verweise.py --base none     # nur Ist-Zustand
+```
+
+Exit-Code 0 = in Ordnung, 1 = Fehler, 3 = nur Alarm.
