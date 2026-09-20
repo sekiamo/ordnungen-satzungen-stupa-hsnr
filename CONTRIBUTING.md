@@ -38,13 +38,16 @@ Rechtschreib-"Aufräumaktionen" quer durchs Dokument in derselben
 Änderung, das macht die Prüfung für andere unnötig schwer.
 - Beachte die Nummerierungs-Konvention aus der [README](README.md):
 Absätze sind als `1)`, `2)`, ... geschrieben (echte Markdown-Liste).
-Fügst du einen Absatz ein oder löschst einen, verschieben sich alle
-folgenden Nummern automatisch – durchsuche danach das Repo nach
-Verweisen auf die alte Nummer (z.B. "§ 5 Abs. 2") und korrigiere sie.
+Die §-Nummern in Überschriften und in Verweis-Links setzt das Skript
+beim Bauen **automatisch**; du musst sie nicht anpassen. Prüfe nach
+dem Einfügen/Löschen nur Verweise auf Absätze (z.B. "§ 5 Abs. 2") und
+Verweise, die als reiner Text im Fließtext stehen.
 - Jeder § und jeder Absatz hat eine feste Anker-ID (`<a id="p5-2"></a>`).
-Beim Einfügen eines neuen § oder Absatzes: neue ID nach demselben
-Schema ergänzen. Bestehende IDs nicht ändern, auch wenn sich die
-sichtbare Nummer verschiebt.
+Bestehende IDs nicht ändern, auch wenn sich die sichtbare Nummer
+verschiebt. Für einen **neuen §** nimmst du den Button "➕ Neuen
+Paragraphen danach einfügen" im Gesamttext (siehe Weg 2) – ID, Nummer und
+Dateiname vergibt dann das Skript. Einen neuen **Absatz** in einem
+bestehenden § gibst du die nächste freie ID (z.B. `p5-4`).
 4. Scrolle runter zu "Propose changes" / "Änderungen vorschlagen". Trag eine
 kurze Beschreibung ein, z.B. "§ 8 FSRO: Frist von 7 auf 14 Tage geändert".
 5. Klicke auf "Propose changes" – GitHub öffnet danach automatisch die Seite
@@ -90,9 +93,9 @@ und über "Push" hochladen, dann im Browser den Pull Request eröffnen
 dem sich niemand mehr zurechtfindet.
 - **Begründung in der PR-Beschreibung.** Warum die Änderung? Verweis auf
 Diskussion/Beschluss, falls vorhanden.
-- **Verweise auf Absatz-Nummern prüfen.** Wenn du einen Absatz einfügst oder
-löscht, müssen alle Nummern danach von Hand angepasst werden – und alle
-Stellen im Text, die auf die alte Nummer verweisen (z.B. "gemäß Abs. 3").
+- **Verweise prüfen.** §-Nummern und Verweis-Links passen sich beim Bauen
+automatisch an. Von Hand prüfen musst du Verweise auf **Absätze**
+(z.B. "gemäß Abs. 3") und Verweise im **Fließtext** ("gemäß § 5").
 - Bei reinen Verständnisfragen oder Formulierungsideen ohne fertigen Text:
 einfach ein **Issue** eröffnen statt gleich einen Pull Request.
 
