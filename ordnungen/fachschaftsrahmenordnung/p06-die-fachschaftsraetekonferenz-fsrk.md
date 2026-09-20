@@ -6,4 +6,4 @@
 
 3) <a id="p6-3"></a>Die FSRK tagt regelmäßig und gibt bei Bedarf Empfehlungen an den AStA oder das StuPa ab, insbesondere wenn es um die gerechte Verteilung der Fachschaftsgelder geht.
 
-4) <a id="p6-4"></a>Einberufen wird die FSRK durch das Präsidium des Studierendenparlaments, wenn drei Fachschaftsräte dies fordern, aber mindestens einmal pro Jahr.
+4) <a id="p6-4"></a>Einberufen wird die FSRK durch das Präsidium des Studierendenparlaments, wenn 3 Fachschaftsräte dies fordern, aber mindestens einmal pro Jahr.
