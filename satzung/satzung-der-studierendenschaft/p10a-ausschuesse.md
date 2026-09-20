@@ -1,13 +1,16 @@
 ### § 11 Ausschüsse  <a id="p10a"></a>
 
-1) <a id="p10a-1"></a>Zur fachlichen Entlastung bildet das StuPa Ausschüsse. Als ständige Ausschüsse sind mindestens einzurichten
-   
-      2) ein Haushaltsausschuss,
-      3) ein Wahlausschuss,
-      4) ein Rechtsausschuss und
-      5) ein Härtefallausschuss einzurichten.
+1) <a id="p10a-1"></a>Zur fachlichen Entlastung bildet das StuPa Ausschüsse. Als ständige Ausschüsse sind mindestens einzurichten:
 
    1. ein Haushaltsausschuss,
+
+   2. ein Wahlausschuss,
+
+   3. ein Rechtsausschuss und
+
+   4. ein Härtefallausschuss.
+
+2) <a id="p10a-1a"></a>Das Nähere zu weiteren Ausschüssen sowie zum Verfahren regeln die Geschäftsordnung des StuPa und die jeweiligen thematischen Ordnungen.
 
 3) <a id="p10a-2"></a>Die Mitglieder der Ausschüsse werden von den Fraktionen des StuPa benannt; ihre Amtszeit entspricht der Wahlperiode des StuPa.
 
