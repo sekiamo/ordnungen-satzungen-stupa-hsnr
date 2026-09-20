@@ -70,7 +70,7 @@ Sätze und enthalten keine Sätze.
 
    1. das Präsidium ihn beauftragt,
 
-   2. mindestens drei Mitglieder es verlangen oder
+   2. mindestens 3 Mitglieder es verlangen oder
 
    3. die Geschäftsordnung es vorsieht.
 ```
@@ -98,7 +98,7 @@ eigenen Absatz schreiben und im ersten Absatz darauf verweisen:
 
 3) <a id="p8-3"></a>Es ist eine Abrechnung mit allen Belegen zu erstellen; nur belegte Kosten werden erstattet.
 
-4) <a id="p8-4"></a>Die Abrechnung ist spätestens vierzehn Tage nach der Ergebnisverkündung einzureichen.
+4) <a id="p8-4"></a>Die Abrechnung ist spätestens 14 Tage nach der Ergebnisverkündung einzureichen.
 ```
 
 ## 3. Verweise
@@ -139,7 +139,7 @@ Weitere Regeln:
 
 | Was | Schreibweise | Beispiel | Rn. |
 |---|---|---|---|
-| Zahlen im Fließtext | einheitlich Zahlwörter (Festlegung in diesem Repo) | „vierzehn Tage“, „einundzwanzig Mitglieder“ | 340 |
+| Zahlen im Fließtext | Ziffern (Festlegung in diesem Repo: die Stelle lässt sich im Text so leichter finden), auch Ordnungszahlen und Zeitangaben | „14 Tage“, „21 Mitglieder“, „1 Jahr“, „2. ordentlichen Sitzung“ | 340 |
 | Prozent | Ziffer, „Prozent“ ausgeschrieben | „10 Prozent“ | 341 |
 | Geldbeträge | Ziffern, „Euro“ ausgeschrieben, ohne „,00“ | „400 Euro“, „5,50 Euro“ | 347 |
 | Zahlen über 999 | geschütztes Leerzeichen, kein Punkt; nicht bei Jahreszahlen | „1 200 Euro“, aber „2026“ | 342 |
@@ -147,6 +147,8 @@ Weitere Regeln:
 | Zahlenverhältnis | Ziffern, Doppelpunkt | „2 : 1“ | 344 |
 | Datum | „1. September 2026“ | nicht „01.09.2026“ | 345 |
 | Uhrzeit | „von 6 bis 20 Uhr“ | | 346 |
+
+**Ausnahmen von der Ziffernregel:** „ein“, „eine“ als unbestimmter Artikel („einem Vorsitz“), „einmal“, Bruchzahlen („die Hälfte“, „Zweidrittelmehrheit“, Rn. 343) und feste Begriffe („Vier-Augen-Prinzip“). Zeitangaben mit einer Einheit dagegen als Ziffer: „1 Jahr“, „1 Monat“.
 
 Das **geschützte Leerzeichen** (Zeichen U+00A0) tippt man unter Windows mit
 `Alt` + `0160` auf dem Ziffernblock, am Mac mit `Option` + `Leertaste`.
@@ -158,7 +160,7 @@ Das **geschützte Leerzeichen** (Zeichen U+00A0) tippt man unter Windows mit
 |---|---|
 | Frist läuft am Tag X noch | „bis einschließlich 31. Dezember“ oder „bis zum Ablauf des 31. Dezember“ – nicht „bis zum 31. Dezember“ |
 | Beginn am Tag X | „ab dem 1. September“ |
-| Frist nach Ereignis | „innerhalb von vierzehn Tagen nach …“, „spätestens sechs Wochen vor …“ |
+| Frist nach Ereignis | „innerhalb von 14 Tagen nach …“, „spätestens 6 Wochen vor …“ |
 | Alter | „mindestens 18 Jahre alt“ statt „das 18. Lebensjahr vollendet“ |
 
 ## 5. Personenbezeichnungen

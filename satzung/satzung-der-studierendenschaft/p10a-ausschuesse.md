@@ -14,6 +14,6 @@
 
 3) <a id="p10a-2"></a>Die Mitglieder der Ausschüsse werden von den Fraktionen des StuPa benannt; ihre Amtszeit entspricht der Wahlperiode des StuPa.
 
-4) <a id="p10a-3"></a>Die Benennung hat bis zum Ende der zweiten ordentlichen Sitzung der Wahlperiode zu erfolgen.
+4) <a id="p10a-3"></a>Die Benennung hat bis zum Ende der 2. ordentlichen Sitzung der Wahlperiode zu erfolgen.
 
-5) <a id="p10a-4"></a>Ist ein Ausschusssitz nach Ablauf dieser Frist nicht benannt, kann das StuPa ihn ab der zweiten ordentlichen Sitzung der Wahlperiode mit einfacher Mehrheit der anwesenden Mitglieder nach eigenem Ermessen besetzen. Das Benennungsrecht der betroffenen Fraktion erlischt damit für die laufende Wahlperiode.
+5) <a id="p10a-4"></a>Ist ein Ausschusssitz nach Ablauf dieser Frist nicht benannt, kann das StuPa ihn ab der 2. ordentlichen Sitzung der Wahlperiode mit einfacher Mehrheit der anwesenden Mitglieder nach eigenem Ermessen besetzen. Das Benennungsrecht der betroffenen Fraktion erlischt damit für die laufende Wahlperiode.
