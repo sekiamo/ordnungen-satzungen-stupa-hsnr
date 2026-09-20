@@ -1,0 +1,42 @@
+name: Gesamttext bauen
+
+# Baut aus den Einzelparagraphen (.../aufbau.md) die lesbaren Gesamttexte
+# (satzung/*.md, ordnungen/*.md) und committet sie, falls sie veraltet sind.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'satzung/**'
+      - 'ordnungen/**'
+      - 'tools/build_gesamttext.py'
+  pull_request:
+    paths:
+      - 'satzung/**'
+      - 'ordnungen/**'
+      - 'tools/build_gesamttext.py'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      # Bricht ab, wenn z.B. eine Paragraphen-Datei nicht in aufbau.md steht.
+      - name: Gesamttexte bauen
+        run: python tools/build_gesamttext.py
+      - name: Geänderte Gesamttexte committen (nur auf main)
+        if: github.event_name == 'push'
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A satzung ordnungen
+            git commit -m "Gesamttext automatisch aktualisiert"
+            git push
+          fi

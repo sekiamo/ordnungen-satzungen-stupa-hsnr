@@ -21,7 +21,14 @@ Nichts geht "kaputt", wenn du etwas falsch machst: Jede Änderung kann vor der
 
 ## Weg 1: Kleine Textänderung direkt im Browser (empfohlen für den Einstieg)
 
-1. Öffne die Datei, die du ändern willst (z.B. `ordnungen/finanzordnung.md`).
+1. Öffne die **Paragraphen-Datei**, die du ändern willst – z.B.
+`ordnungen/finanzordnung/p09-ruecklagen.md`. Jeder Paragraph ist eine eigene
+Datei; die Übersicht steht in der `aufbau.md` des jeweiligen Ordners. Am
+bequemsten geht es über den Link „✏️ Diesen Paragraphen bearbeiten“ unter der
+Überschrift im Gesamttext. (Die Datei direkt in `ordnungen/` bzw. `satzung/`,
+z.B. `ordnungen/finanzordnung.md`, ist der **automatisch erzeugte
+Gesamttext** – dort bitte nichts ändern, die Änderung ginge beim nächsten
+Bauen verloren.)
 2. Klicke oben rechts auf das Stift-Symbol ("Edit this file" / "Diese Datei
 bearbeiten"). GitHub erstellt dafür automatisch einen eigenen Branch für
 dich (du kannst gar nicht versehentlich `main` überschreiben).
@@ -42,7 +49,9 @@ sichtbare Nummer verschiebt.
 kurze Beschreibung ein, z.B. "§ 8 FSRO: Frist von 7 auf 14 Tage geändert".
 5. Klicke auf "Propose changes" – GitHub öffnet danach automatisch die Seite
 für den Pull Request. Klicke dort auf "Create pull request".
-6. Fertig. Andere sehen jetzt deinen Vorschlag, können kommentieren, und er
+6. Den Gesamttext musst du nicht von Hand ändern: Er wird nach der
+Übernahme in `main` automatisch neu gebaut.
+7. Fertig. Andere sehen jetzt deinen Vorschlag, können kommentieren, und er
 wird nach Abstimmung/Freigabe übernommen.
 
 ## Weg 2: Größere Änderung (z.B. mehrere Paragraphen neu strukturieren)
@@ -54,6 +63,9 @@ bearbeitest, bevor du ihn vorschlägst.
 einen neuen Branch-Namen eingeben, z.B. `aenderung-finanzordnung-ruecklagen`.
 2. In diesem neuen Branch kannst du wie in Weg 1 mehrere Dateien nacheinander
 bearbeiten ("Edit this file"), alle Änderungen landen im selben Branch.
+Einen **neuen Paragraphen** legst du am einfachsten über den Link
+„➕ Neuen Paragraphen danach einfügen“ im Gesamttext an (Details:
+Abschnitt „Neuen Paragraphen einfügen“ in der [README](README.md)).
 3. Wenn du fertig bist: oben auf "Contribute" → "Open pull request" klicken,
 kurze Beschreibung schreiben, "Create pull request".
 
@@ -66,6 +78,8 @@ Oberfläche, kein Kommandozeilen-Wissen nötig).
 2. Repo über "File → Clone repository" herunterladen.
 3. Dateien mit einem normalen Text-Editor bearbeiten (z.B. VS Code, Notepad++,
 sogar Editor/Notepad reicht für Markdown).
+Um das Ergebnis als Ganzes zu sehen, kannst du den Gesamttext lokal neu
+erzeugen: `python tools/build_gesamttext.py` (benötigt Python 3).
 4. In GitHub Desktop die Änderungen sehen, einen Branch erstellen, committen
 und über "Push" hochladen, dann im Browser den Pull Request eröffnen
 (GitHub Desktop bietet dafür einen direkten Knopf an).
