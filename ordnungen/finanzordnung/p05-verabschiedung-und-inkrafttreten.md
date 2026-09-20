@@ -4,7 +4,7 @@
 
 2) <a id="p5-2"></a>Das StuPa beschließt den Haushaltsplan nach Beratung der Stellungnahme des Haushaltsausschusses mit der einfachen Mehrheit seiner Mitglieder.
 
-3) <a id="p5-3"></a>Dem Beschluss über den Haushaltsplan geht mindestens eine Lesung desselben voraus im Parlament
+3) <a id="p5-3"></a>Dem Beschluss über den Haushaltsplan geht mindestens eine Lesung desselben voraus im Parlament.
 
 4) <a id="p5-4"></a>Sondervoten einzelner Mitglieder des Haushaltsausschusses zu seiner Stellungnahme sind zuzulassen und dieser hinzuzugeben.
 

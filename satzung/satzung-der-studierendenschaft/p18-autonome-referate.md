@@ -8,10 +8,10 @@
 
    1. Referat für ausländische und internationale Studierende,
 
-   2. Queer-Feminismus- Referat,
+   2. Queer-Feminismus-Referat und
 
    3. Enthinderungsreferat.
 
-4) <a id="p18-4"></a>Die Referierenden der Autonomen Referate werden vom Studierendenparlament gewählt. Das Vorschlagsrecht obliegt ausschließlich der jeweiligen Statusgruppe (z. B. im Rahmen einer thematischen Vollversammlung). Die Autonomen Referate arbeiten in inhaltlichen Fragen weisungsungebunden gegenüber dem AStA-Vorstand, sind dem Studierendenparlament jedoch rechenschaftspflichtig.
+4) <a id="p18-4"></a>Die Referierenden der Autonomen Referate werden vom Studierendenparlament gewählt. Das Vorschlagsrecht obliegt ausschließlich der jeweiligen Statusgruppe (zum Beispiel im Rahmen einer thematischen Vollversammlung). Die Autonomen Referate arbeiten in inhaltlichen Fragen weisungsungebunden gegenüber dem AStA-Vorstand, sind dem Studierendenparlament jedoch rechenschaftspflichtig.
 
 5) <a id="p18-5"></a>Den Autonomen Referaten sind im Haushaltsplan angemessene finanzielle Mittel zur eigenständigen Bewirtschaftung zur Verfügung zu stellen.

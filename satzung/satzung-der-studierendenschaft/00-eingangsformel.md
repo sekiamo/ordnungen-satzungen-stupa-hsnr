@@ -1,1 +1,1 @@
-Aufgrund des § 53 Abs. 4 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz – HG) vom 16. September 2014 (GV. NRW. S. 547), in der jeweils geltenden Fassung, hat das Studierendenparlament der Hochschule Niederrhein die folgende Satzung beschlossen:
+Aufgrund des § 53 Absatz 4 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz – HG) vom 16. September 2014 (GV. NRW. S. 547), in der jeweils geltenden Fassung, hat das Studierendenparlament der Hochschule Niederrhein die folgende Satzung beschlossen:

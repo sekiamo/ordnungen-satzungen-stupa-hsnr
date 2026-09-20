@@ -8,6 +8,8 @@
 
    3. Fachschaftsrahmenordnung,
 
-   4. Finanzordnung,
+   4. Finanzordnung und
 
-   5. Geschäftsordnungen für StuPa und AStA. Darüber hinaus können Musterordnungen (z.B. für Autonome Referate oder Hochschulgruppen) erlassen werden.
+   5. Geschäftsordnungen für StuPa und AStA.
+
+2) <a id="p23-2"></a>Darüber hinaus können Musterordnungen, zum Beispiel für Autonome Referate oder Hochschulgruppen, erlassen werden.
