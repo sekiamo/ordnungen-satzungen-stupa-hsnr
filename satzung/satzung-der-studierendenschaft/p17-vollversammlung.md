@@ -8,6 +8,6 @@
 
    2. auf Antrag von 5 Prozent der Studierenden oder
 
-   3. auf Antrag von mehr als drei Fachschaftsräten.
+   3. auf Antrag von mehr als 3 Fachschaftsräten.
 
 3) <a id="p17-3"></a>Die Einberufung erfolgt durch das Präsidium des StuPa.
