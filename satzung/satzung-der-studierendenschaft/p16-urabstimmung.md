@@ -10,7 +10,7 @@
 
    3. auf Antrag von mehr als der Hälfte der Fachschaftsräte unter Nennung des Abstimmungsgegenstands.
 
-3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens zehn, spätestens zwanzig Tage nach Eingang des gültigen Antrages an mindestens sieben, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
+3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens 10, spätestens 20 Tage nach Eingang des gültigen Antrages an mindestens 7, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
 
 4) <a id="p16-4"></a>Die Stimmabgabe kann analog oder digital nach den Vorgaben der Wahlordnung stattfinden.
 

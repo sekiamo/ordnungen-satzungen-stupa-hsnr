@@ -4,4 +4,4 @@
 
 2) <a id="p8-2"></a>Angelegenheiten von erheblicher finanzieller Bedeutung bedürfen der vorherigen Zustimmung des StuPa. Als erheblich gelten Einzelausgaben oder Verträge, die einen Wert von 2 500 Euro überschreiten.
 
-3) <a id="p8-3"></a>Verträge mit einer Laufzeit von mehr als einem Jahr bedürfen der vorherigen Zustimmung des StuPa.
+3) <a id="p8-3"></a>Verträge mit einer Laufzeit von mehr als 1 Jahr bedürfen der vorherigen Zustimmung des StuPa.

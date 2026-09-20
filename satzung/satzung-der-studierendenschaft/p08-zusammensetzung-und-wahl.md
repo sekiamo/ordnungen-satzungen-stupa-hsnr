@@ -2,7 +2,7 @@
 
 1) <a id="p8-1"></a>Das Studierendenparlament besteht aus 21 stimmberechtigten Mitgliedern.
 
-2) <a id="p8-2"></a>Es wird von den Mitgliedern der Studierendenschaft in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Die Amtszeit beträgt ein Jahr.
+2) <a id="p8-2"></a>Es wird von den Mitgliedern der Studierendenschaft in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Die Amtszeit beträgt 1 Jahr.
 
 3) <a id="p8-3"></a>Als beratende Mitglieder gehören dem Studierendenparlament an:
 
@@ -24,4 +24,4 @@
 
 7) <a id="p8-7"></a>Es ist eine Abrechnung mit sämtlichen Belegen zu erstellen; nur belegte Kosten können erstattet werden.
 
-8) <a id="p8-8"></a>Die Abrechnung ist spätestens vierzehn Tage nach der Ergebnisverkündung beim AStA einzureichen.
+8) <a id="p8-8"></a>Die Abrechnung ist spätestens 14 Tage nach der Ergebnisverkündung beim AStA einzureichen.

@@ -33,7 +33,7 @@ Regelung verändern könnte, wird **gemeldet, nicht geändert**.
 |---|---|
 | „Abs.“, „z. B.“, „etc.“, „%“, „€“ ausschreiben | Wortlaut mit anderer Bedeutung (etwa „und“ oder „oder“ für einen Schrägstrich, wenn unklar) |
 | Sparschreibungen und Schrägstriche auflösen | Beträge, Fristen, Mehrheiten, Anzahl von Mitgliedern |
-| Ziffern und Zahlwörter vereinheitlichen | Paragraphen neu ordnen, zusammenlegen, aufteilen |
+| Zahlwörter durch Ziffern ersetzen (Festlegung des Repos) | Paragraphen neu ordnen, zusammenlegen, aufteilen |
 | Listen: Konjunktion, keine ganzen Sätze (als Absätze) | Fehlende oder unvollständige Sätze ergänzen (nicht raten) |
 | Absatznummer bei nur einem Absatz entfernen | Außerkrafttreten, Fundstellen, Datum der alten Satzung (nicht erfinden) |
 | Rechtschreibung, Interpunktion, Anführungszeichen | Begriffe vereinheitlichen, wenn sie Unterschiedliches meinen könnten |
@@ -94,7 +94,7 @@ uneinheitliche Begriffe, unvollständige Sätze, doppelte Anker.
 
 - **Backslashes und `\uXXXX`** werden von manchen Werkzeugen beim Übergeben
   verändert (Heredoc, Schreib-Werkzeuge): `\n` im Quelltext wurde zum
-  Zeilenumbruch, `§` zum Zeichen. Skripte mit Regex deshalb mit
+  Zeilenumbruch, ein `\u`-Escape für das Paragraphenzeichen zum Zeichen selbst. Skripte mit Regex deshalb mit
   Zeichenklassen (`[*]`, `[.]`) statt Escapes schreiben, Umlaute über
   Konstanten bilden und die Datei nach dem Schreiben ansehen.
 - **Zeilenenden:** Der Index hat LF, der Arbeitsordner unter Windows CRLF
