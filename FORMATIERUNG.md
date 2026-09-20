@@ -9,6 +9,9 @@ Wie die Dateien technisch aufgebaut sind (Einzelparagraphen, `aufbau.md`,
 Anker, Nummerierung), steht in der [README](README.md). Hier geht es um die
 **Schreibweise des Textes**.
 
+Für KI-Assistenten, die Texte prüfen oder korrigieren, gibt es eine eigene
+Anleitung: [tools/bots/formatierung.md](tools/bots/formatierung.md).
+
 ## Inhalt
 
 1. [Paragraph](#1-paragraph)

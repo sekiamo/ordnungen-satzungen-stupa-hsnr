@@ -35,8 +35,9 @@ Vorlagen zum Kopieren in [FORMATIERUNG.md](FORMATIERUNG.md).
 satzung/      Die Satzung der Studierendenschaft (Grundordnung)
 ordnungen/    Ergänzende Ordnungen (Fachschaftsrahmenordnung, Finanzordnung)
 vorlagen/     Muster-/Beispieldokumente (z.B. Erklärungen, Formulare)
+tools/        Skript, das den Gesamttext aus den Einzelparagraphen erzeugt;
+              tools/bots/ = Anleitung für KI-Assistenten (Formatierung prüfen)
 FORMATIERUNG.md   Formatierungsvorlagen und Schreibregeln (Handbuch der Rechtsförmlichkeit)
-tools/        Skript, das den Gesamttext aus den Einzelparagraphen erzeugt
 .github/      Automatisierung (baut den Gesamttext nach jeder Änderung)
 ```
 
