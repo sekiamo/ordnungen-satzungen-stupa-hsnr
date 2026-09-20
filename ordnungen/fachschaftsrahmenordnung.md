@@ -60,11 +60,11 @@
 
 4) <a id="p5-4"></a>Auf seiner konstituierenden Sitzung wählt der FSR aus seiner Mitte:
 
-1. den Vorsitz,
+    1. den Vorsitz,
 
-2. die stellvertretende Leitung,
+    2. die stellvertretende Leitung,
 
-3. die Finanzreferentin oder den Finanzreferenten (Kassenwart\*in).
+    3. die Finanzreferentin oder den Finanzreferenten (Kassenwart\*in).
 
 5) <a id="p5-5"></a>Der FSR bestimmt eine Person, die als Delegierte an Sitzungen des Studierendenparlaments in Form eines beratenden Mitglieds teilnimmt.
 
