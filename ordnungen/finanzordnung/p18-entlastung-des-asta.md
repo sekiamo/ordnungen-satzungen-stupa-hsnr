@@ -1,5 +1,7 @@
 ### § 18 Entlastung des AStA <a id="p18"></a>
 
-1) <a id="p18-1"></a>Das Rechnungsergebnis und der Bericht der Kassenprüfung werden dem Haushaltsausschuss des StuPa zur Stellungnahme vorgelegt.
+1) <a id="p18-1"></a>Das Rechnungsergebnis und der Bericht der Kassenprüfung werden dem Haushaltsausschuss des StuPa mindestens einen Monat vor der Entlastungsbeschlussfassung zur Stellungnahme vorgelegt und mindestens zwei Wochen vor dieser Beschlussfassung hochschulöffentlich bekanntgemacht.
 
 2) <a id="p18-2"></a>Das StuPa entscheidet auf Basis dieser Dokumente über die formelle Entlastung des AStA-Vorstands und des Finanzreferats für das abgelaufene Haushaltsjahr.
+
+3) <a id="p18-3"></a>Die Haushalts- und Wirtschaftsführung der Studierendenschaft unterliegt zusätzlich der Prüfung durch den Landesrechnungshof NRW.
