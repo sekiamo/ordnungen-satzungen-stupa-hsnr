@@ -100,7 +100,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 1) <a id="p8-1"></a>Das Studierendenparlament besteht aus 21 stimmberechtigten Mitgliedern.
 
-2) <a id="p8-2"></a>Es wird von den Mitgliedern der Studierendenschaft in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Die Amtszeit beträgt ein Jahr.
+2) <a id="p8-2"></a>Es wird von den Mitgliedern der Studierendenschaft in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Die Amtszeit beträgt 1 Jahr.
 
 3) <a id="p8-3"></a>Als beratende Mitglieder gehören dem Studierendenparlament an:
 
@@ -122,7 +122,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 7) <a id="p8-7"></a>Es ist eine Abrechnung mit sämtlichen Belegen zu erstellen; nur belegte Kosten können erstattet werden.
 
-8) <a id="p8-8"></a>Die Abrechnung ist spätestens vierzehn Tage nach der Ergebnisverkündung beim AStA einzureichen.
+8) <a id="p8-8"></a>Die Abrechnung ist spätestens 14 Tage nach der Ergebnisverkündung beim AStA einzureichen.
 
 ### § 9 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)  <a id="p9"></a>
 
@@ -139,7 +139,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 1) <a id="p10-1"></a>Das StuPa wählt auf seiner konstituierenden Sitzung aus seiner Mitte ein Präsidium, das die Sitzungen leitet.
 
-2) <a id="p10-2"></a>Das Präsidium besteht in der Regel aus drei Personen. Das Nähere regelt die Geschäftsordnung des StuPa.
+2) <a id="p10-2"></a>Das Präsidium besteht in der Regel aus 3 Personen. Das Nähere regelt die Geschäftsordnung des StuPa.
 
 3) <a id="p10-3"></a>Mitglieder des Präsidiums dürfen nicht dem AStA angehören.
 
@@ -163,9 +163,9 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 3) <a id="p10a-2"></a>Die Mitglieder der Ausschüsse werden von den Fraktionen des StuPa benannt; ihre Amtszeit entspricht der Wahlperiode des StuPa.
 
-4) <a id="p10a-3"></a>Die Benennung hat bis zum Ende der zweiten ordentlichen Sitzung der Wahlperiode zu erfolgen.
+4) <a id="p10a-3"></a>Die Benennung hat bis zum Ende der 2. ordentlichen Sitzung der Wahlperiode zu erfolgen.
 
-5) <a id="p10a-4"></a>Ist ein Ausschusssitz nach Ablauf dieser Frist nicht benannt, kann das StuPa ihn ab der zweiten ordentlichen Sitzung der Wahlperiode mit einfacher Mehrheit der anwesenden Mitglieder nach eigenem Ermessen besetzen. Das Benennungsrecht der betroffenen Fraktion erlischt damit für die laufende Wahlperiode.
+5) <a id="p10a-4"></a>Ist ein Ausschusssitz nach Ablauf dieser Frist nicht benannt, kann das StuPa ihn ab der 2. ordentlichen Sitzung der Wahlperiode mit einfacher Mehrheit der anwesenden Mitglieder nach eigenem Ermessen besetzen. Das Benennungsrecht der betroffenen Fraktion erlischt damit für die laufende Wahlperiode.
 
 ## Teil 3 Allgemeiner Studierendenausschuss (AStA)
 
@@ -175,7 +175,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 1) <a id="p11-1"></a>Der AStA vertritt die Studierendenschaft nach außen. Er führt die Beschlüsse des Studierendenparlaments aus und erledigt die Geschäfte der laufenden Verwaltung.
 
-2) <a id="p11-2"></a>Die Amtszeit des AStA beträgt ein Jahr und verläuft parallel zu der des StuPa.
+2) <a id="p11-2"></a>Die Amtszeit des AStA beträgt 1 Jahr und verläuft parallel zu der des StuPa.
 
 3) <a id="p11-3"></a>Der AStA fasst seine Beschlüsse mit der einfachen Mehrheit der anwesenden AStA-Mitglieder. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. Das Nähere, insbesondere zur Sitzungsleitung und Beschlussfähigkeit, regelt die vom StuPa zu beschließende Geschäftsordnung des AStA.
 
@@ -191,7 +191,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 1) <a id="p13-1"></a>Der AStA-Vorstand wird vom StuPa mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder gewählt. Eine vorzeitige Abwahl von Vorstandsmitgliedern ist nur durch die gleichzeitige Wahl einer Nachfolge (konstruktives Misstrauensvotum) mit der absoluten Mehrheit der stimmberechtigten Mitglieder des StuPa möglich.
 
-2) <a id="p13-2"></a>Er besteht aus einer vorsitzenden Person und zwei Stellvertretungen. Das StuPa kann den stellvertretenden Personen feste Aufgabenbereiche zuordnen.
+2) <a id="p13-2"></a>Er besteht aus einer vorsitzenden Person und 2 Stellvertretungen. Das StuPa kann den stellvertretenden Personen feste Aufgabenbereiche zuordnen.
 
 3) <a id="p13-3"></a>Bei der Aufstellung von Kandidaturen soll auf geschlechterparitätische Ausgewogenheit sowie auf die Berücksichtigung Studierender aller Standorte (Campus) geachtet werden.
 
@@ -231,7 +231,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
    3. auf Antrag von mehr als der Hälfte der Fachschaftsräte unter Nennung des Abstimmungsgegenstands.
 
-3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens zehn, spätestens zwanzig Tage nach Eingang des gültigen Antrages an mindestens sieben, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
+3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens 10, spätestens 20 Tage nach Eingang des gültigen Antrages an mindestens 7, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
 
 4) <a id="p16-4"></a>Die Stimmabgabe kann analog oder digital nach den Vorgaben der Wahlordnung stattfinden.
 
@@ -295,7 +295,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 2) <a id="p20-2"></a>Organe der Fachschaft sind die Fachschaftsvollversammlung und der Fachschaftsrat (FSR).
 
-3) <a id="p20-3"></a>Ein Fachschaftsrat besteht aus einem Vorsitz, einer Stellvertretung und acht weiteren Mitgliedern (insgesamt 10 Mitglieder).
+3) <a id="p20-3"></a>Ein Fachschaftsrat besteht aus einem Vorsitz, einer Stellvertretung und 8 weiteren Mitgliedern (insgesamt 10 Mitglieder).
 
 4) <a id="p20-4"></a>Alles Weitere regelt eine vom StuPa zu beschließende Fachschaftsrahmenordnung.
 

@@ -48,7 +48,7 @@
 
 3) <a id="p4-3"></a>Sie muss unverzüglich einberufen werden, wenn mindestens 10 Prozent der Mitglieder der Fachschaft oder die Hälfte der Mitglieder des Fachschaftsrats dies schriftlich unter Angabe von Gründen (Tagesordnung oder Abstimmungsfragen) verlangen.
 
-4) <a id="p4-4"></a>Die Einladung zur FSVV erfolgt spätestens sieben Kalendertage vor der Versammlung durch fachschaftsöffentliche Bekanntmachung (zum Beispiel Aushang, E-Mail oder Internetseite).
+4) <a id="p4-4"></a>Die Einladung zur FSVV erfolgt spätestens 7 Kalendertage vor der Versammlung durch fachschaftsöffentliche Bekanntmachung (zum Beispiel Aushang, E-Mail oder Internetseite).
 
 5) <a id="p4-5"></a>Beschlüsse der FSVV binden den Fachschaftsrat, solange sie nicht dem Hochschulgesetz NRW, der Haushalts- und Wirtschaftsführungs-Verordnung der Studierendenschaften NRW (HWVO NRW), der Satzung oder der Finanzordnung widersprechen.
 
@@ -112,7 +112,7 @@
 
 2) <a id="p8-2"></a>Auszahlungen der Fachschaftsgelder durch den AStA an die Fachschaft als Selbstbewirtschaftungsmittel setzen voraus, dass das Finanzreferat der Fachschaft eine Erklärung an den AStA übermittelt, in welcher bestätigt wird, dass die verantwortlichen Personen sich mit der HWVO NRW beschäftigt haben und sich der Aufgaben aus [§ 8 Absatz 1](#p8-1) dieser Ordnung bewusst sind.
 
-3) <a id="p8-3"></a>Jede Kassenanordnung der Fachschaft muss von mindestens zwei berechtigten Personen des FSR (meist die Finanzreferentin oder der Finanzreferent und der Vorsitz) unterzeichnet werden (Vier-Augen-Prinzip).
+3) <a id="p8-3"></a>Jede Kassenanordnung der Fachschaft muss von mindestens 2 berechtigten Personen des FSR (meist die Finanzreferentin oder der Finanzreferent und der Vorsitz) unterzeichnet werden (Vier-Augen-Prinzip).
 
 ### § 9 Kassenprüfung und Jahresabschluss <a id="p9"></a>
 

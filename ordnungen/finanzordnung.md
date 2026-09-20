@@ -46,7 +46,7 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p05-verabschiedung-und-inkrafttreten.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p05-verabschiedung-und-inkrafttreten.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p5-1"></a>Der Entwurf des Haushaltsplans ist spätestens sechs Wochen vor Beginn des Haushaltsjahres dem Haushaltsausschuss des Studierendenparlaments (StuPa) zur Prüfung und Stellungnahme vorzulegen.
+1) <a id="p5-1"></a>Der Entwurf des Haushaltsplans ist spätestens 6 Wochen vor Beginn des Haushaltsjahres dem Haushaltsausschuss des Studierendenparlaments (StuPa) zur Prüfung und Stellungnahme vorzulegen.
 
 2) <a id="p5-2"></a>Das StuPa beschließt den Haushaltsplan nach Beratung der Stellungnahme des Haushaltsausschusses mit der einfachen Mehrheit seiner Mitglieder.
 
@@ -54,7 +54,7 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 4) <a id="p5-4"></a>Sondervoten einzelner Mitglieder des Haushaltsausschusses zu seiner Stellungnahme sind zuzulassen und dieser hinzuzugeben.
 
-5) <a id="p5-5"></a>Der Haushaltsausschuss legt dem StuPa spätestens drei Wochen nach Vorlage des Entwurfs eine Stellungnahme vor. Kommt der Haushaltsausschuss seiner Verpflichtung nicht innerhalb der Frist nach, kann das StuPa mit einer Zweidrittelmehrheit der anwesenden Mitglieder beschließen, auf die Stellungnahme zu verzichten.
+5) <a id="p5-5"></a>Der Haushaltsausschuss legt dem StuPa spätestens 3 Wochen nach Vorlage des Entwurfs eine Stellungnahme vor. Kommt der Haushaltsausschuss seiner Verpflichtung nicht innerhalb der Frist nach, kann das StuPa mit einer Zweidrittelmehrheit der anwesenden Mitglieder beschließen, auf die Stellungnahme zu verzichten.
 
 6) <a id="p5-6"></a>Der beschlossene Haushaltsplan ist unverzüglich dem Präsidium der Hochschule Niederrhein vorzulegen und hochschulöffentlich bekannt zu machen.
 
@@ -86,7 +86,7 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 2) <a id="p8-2"></a>Angelegenheiten von erheblicher finanzieller Bedeutung bedürfen der vorherigen Zustimmung des StuPa. Als erheblich gelten Einzelausgaben oder Verträge, die einen Wert von 2 500 Euro überschreiten.
 
-3) <a id="p8-3"></a>Verträge mit einer Laufzeit von mehr als einem Jahr bedürfen der vorherigen Zustimmung des StuPa.
+3) <a id="p8-3"></a>Verträge mit einer Laufzeit von mehr als 1 Jahr bedürfen der vorherigen Zustimmung des StuPa.
 
 ### § 9 Rücklagen <a id="p9"></a>
 
@@ -168,13 +168,13 @@ Vom StuPa anerkannte studentische Initiativen und Hochschulgruppen können Proje
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p16-rechnungsergebnis.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p16-rechnungsergebnis.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-Innerhalb eines Monats nach Ende des Haushaltsjahres stellt die Kassenverwaltung gemeinsam mit dem Finanzreferat das Rechnungsergebnis (Jahresabschluss) auf. Es vergleicht die veranschlagten Ansätze mit den tatsächlichen Ist-Einnahmen und Ist-Ausgaben.
+Innerhalb von 1 Monat nach Ende des Haushaltsjahres stellt die Kassenverwaltung gemeinsam mit dem Finanzreferat das Rechnungsergebnis (Jahresabschluss) auf. Es vergleicht die veranschlagten Ansätze mit den tatsächlichen Ist-Einnahmen und Ist-Ausgaben.
 
 ### § 17 Kassenprüfung <a id="p17"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p17-kassenpruefung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p17-kassenpruefung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p17-1"></a>Das StuPa benennt zu Beginn der Wahlperiode mindestens zwei Kassenprüfende. Diese dürfen weder dem AStA angehören noch Kontovollmachten besitzen.
+1) <a id="p17-1"></a>Das StuPa benennt zu Beginn der Wahlperiode mindestens 2 Kassenprüfende. Diese dürfen weder dem AStA angehören noch Kontovollmachten besitzen.
 
 2) <a id="p17-2"></a>Die Kassenprüfung hat mindestens einmal jährlich unvermutet stattzufinden.
 
@@ -184,7 +184,7 @@ Innerhalb eines Monats nach Ende des Haushaltsjahres stellt die Kassenverwaltung
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p18-entlastung-des-asta.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p18-entlastung-des-asta.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p18-1"></a>Das Rechnungsergebnis und der Bericht der Kassenprüfung werden dem Haushaltsausschuss des StuPa mindestens einen Monat vor der Entlastungsbeschlussfassung zur Stellungnahme vorgelegt und mindestens zwei Wochen vor dieser Beschlussfassung hochschulöffentlich bekanntgemacht.
+1) <a id="p18-1"></a>Das Rechnungsergebnis und der Bericht der Kassenprüfung werden dem Haushaltsausschuss des StuPa mindestens 1 Monat vor der Entlastungsbeschlussfassung zur Stellungnahme vorgelegt und mindestens 2 Wochen vor dieser Beschlussfassung hochschulöffentlich bekanntgemacht.
 
 2) <a id="p18-2"></a>Das StuPa entscheidet auf Basis dieser Dokumente über die formelle Entlastung des AStA-Vorstands und des Finanzreferats für das abgelaufene Haushaltsjahr.
 
