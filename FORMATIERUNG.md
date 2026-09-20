@@ -6,7 +6,7 @@ ist das *Handbuch der Rechtsförmlichkeit* des Bundesjustizministeriums
 formal für Bundesrecht, ist aber ein guter Maßstab für jede Satzung und Ordnung.
 
 Wie die Dateien technisch aufgebaut sind (Einzelparagraphen, `aufbau.md`,
-Anker, Nummerierung), steht in der [README](README.md). Hier geht es um die
+Anker, Nummerierung), steht in [TECHNIK.md](TECHNIK.md). Hier geht es um die
 **Schreibweise des Textes**.
 
 Für KI-Assistenten, die Texte prüfen oder korrigieren, gibt es eine eigene
@@ -119,7 +119,7 @@ Mehrere Verweise: Wechselt die Ebene, wird die Einheit erneut genannt (Rn. 80):
 Steht die oberste Einheit im Plural, steht das Verb im Plural, sonst im
 Singular (Rn. 79): „Die §§ 3 und 5 gelten entsprechend.“ – „§ 14 Absatz 5 bis 7 gilt entsprechend.“
 
-**Verweise als Link** (damit der Build die Nummer mitführt, siehe README):
+**Verweise als Link** (damit der Build die Nummer mitführt, siehe TECHNIK.md):
 
 ```markdown
 ... nach [§ 7](p07-kassenanordnungen-vier-augen-prinzip.md) ...
@@ -264,7 +264,7 @@ der Definition.
 - [ ] Absatznummer nur, wenn der Paragraph mehrere Absätze hat
 - [ ] Eigene Kurzformen an der ersten Stelle eingeführt
 - [ ] Verweise ausgeschrieben; nach Einfügen oder Löschen von Absätzen alle
-      Verweise auf **Absätze** und **Fließtext-Verweise** geprüft (siehe README)
+      Verweise auf **Absätze** und **Fließtext-Verweise** geprüft (siehe TECHNIK.md)
 - [ ] Gleiche Dinge gleich benannt
 - [ ] Schlüsselwort in der Paragraphenüberschrift, ohne Teil-Titel verständlich
 - [ ] Rechtschreibung geprüft; Schlusspunkt am Absatzende
