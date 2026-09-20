@@ -149,14 +149,17 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p10a-ausschuesse.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p10a-ausschuesse.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p10a-1"></a>Zur fachlichen Entlastung bildet das StuPa Ausschüsse. Als ständige Ausschüsse sind mindestens einzurichten
-   
-      2) ein Haushaltsausschuss,
-      3) ein Wahlausschuss,
-      4) ein Rechtsausschuss und
-      5) ein Härtefallausschuss einzurichten.
+1) <a id="p10a-1"></a>Zur fachlichen Entlastung bildet das StuPa Ausschüsse. Als ständige Ausschüsse sind mindestens einzurichten:
 
    1. ein Haushaltsausschuss,
+
+   2. ein Wahlausschuss,
+
+   3. ein Rechtsausschuss und
+
+   4. ein Härtefallausschuss.
+
+2) <a id="p10a-1a"></a>Das Nähere zu weiteren Ausschüssen sowie zum Verfahren regeln die Geschäftsordnung des StuPa und die jeweiligen thematischen Ordnungen.
 
 3) <a id="p10a-2"></a>Die Mitglieder der Ausschüsse werden von den Fraktionen des StuPa benannt; ihre Amtszeit entspricht der Wahlperiode des StuPa.
 
@@ -226,7 +229,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
    2. auf Antrag von mindestens 10 Prozent der Studierenden oder
 
-   3. auf Antrag von mehr als die Hälfte der Fachschaftsräten unter Nennung des Abstimmungsgegenstands.
+   3. auf Antrag von mehr als der Hälfte der Fachschaftsräte unter Nennung des Abstimmungsgegenstands.
 
 3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens zehn, spätestens zwanzig Tage nach Eingang des gültigen Antrages an mindestens sieben, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
 
