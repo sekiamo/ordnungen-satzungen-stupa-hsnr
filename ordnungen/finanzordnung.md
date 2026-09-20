@@ -184,9 +184,11 @@ Innerhalb eines Monats nach Ende des Haushaltsjahres stellt die Kassenverwaltung
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p18-entlastung-des-asta.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p18-entlastung-des-asta.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p18-1"></a>Das Rechnungsergebnis und der Bericht der Kassenprüfung werden dem Haushaltsausschuss des StuPa zur Stellungnahme vorgelegt.
+1) <a id="p18-1"></a>Das Rechnungsergebnis und der Bericht der Kassenprüfung werden dem Haushaltsausschuss des StuPa mindestens einen Monat vor der Entlastungsbeschlussfassung zur Stellungnahme vorgelegt und mindestens zwei Wochen vor dieser Beschlussfassung hochschulöffentlich bekanntgemacht.
 
 2) <a id="p18-2"></a>Das StuPa entscheidet auf Basis dieser Dokumente über die formelle Entlastung des AStA-Vorstands und des Finanzreferats für das abgelaufene Haushaltsjahr.
+
+3) <a id="p18-3"></a>Die Haushalts- und Wirtschaftsführung der Studierendenschaft unterliegt zusätzlich der Prüfung durch den Landesrechnungshof NRW.
 
 ## Teil 8 Schlussbestimmungen
 
