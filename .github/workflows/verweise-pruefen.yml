@@ -1,0 +1,54 @@
+name: Querverweise prüfen
+
+# Prüft bei jeder Änderung an Satzung/Ordnungen, ob Verweise noch stimmen:
+#   FEHLER  kaputter Verweis, doppelter Anker, verschwundener Anker mit Verweis
+#   ALARM   Text eines Paragraphen/Absatzes geändert, auf den verwiesen wird
+# Fehler lassen die Prüfung immer scheitern. Ein Alarm lässt sie scheitern, bis
+# die Verweise geprüft sind: im Pull Request das Label "verweise-geprueft" setzen.
+# Details: README, Abschnitt "Querverweise prüfen".
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'satzung/**'
+      - 'ordnungen/**'
+      - 'tools/check_verweise.py'
+  pull_request:
+    types: [opened, synchronize, reopened, labeled, unlabeled]
+    paths:
+      - 'satzung/**'
+      - 'ordnungen/**'
+      - 'tools/check_verweise.py'
+
+permissions:
+  contents: read
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Querverweise prüfen
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE_PR: ${{ github.event.pull_request.base.sha }}
+          BASE_PUSH: ${{ github.event.before }}
+          GEPRUEFT: ${{ contains(github.event.pull_request.labels.*.name, 'verweise-geprueft') }}
+        run: |
+          if [ "$EVENT" = "pull_request" ]; then BASE="$BASE_PR"; else BASE="$BASE_PUSH"; fi
+          case "$BASE" in ''|0000000000000000000000000000000000000000) BASE=none ;; esac
+          set +e
+          python tools/check_verweise.py --base "$BASE"
+          code=$?
+          set -e
+          if [ "$code" -eq 3 ] && [ "$GEPRUEFT" = "true" ]; then
+            echo "::notice::Alarm bestätigt (Label verweise-geprueft): Verweise wurden geprüft."
+            exit 0
+          fi
+          exit $code

@@ -10,11 +10,13 @@ on:
       - 'satzung/**'
       - 'ordnungen/**'
       - 'tools/build_gesamttext.py'
+      - 'tools/check_verweise.py'
   pull_request:
     paths:
       - 'satzung/**'
       - 'ordnungen/**'
       - 'tools/build_gesamttext.py'
+      - 'tools/check_verweise.py'
 
 permissions:
   contents: write
@@ -30,13 +32,16 @@ jobs:
       # Bricht ab, wenn z.B. eine Paragraphen-Datei nicht in aufbau.md steht.
       - name: Gesamttexte bauen
         run: python tools/build_gesamttext.py
+      # VERWEISE.md: Liste aller Querverweise (Prüfung selbst: verweise-pruefen.yml)
+      - name: Liste der Querverweise erzeugen
+        run: python tools/check_verweise.py --write-liste
       - name: Geänderte Gesamttexte committen (nur auf main)
         if: github.event_name == 'push'
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add -A satzung ordnungen
+            git add -A satzung ordnungen VERWEISE.md
             git commit -m "Gesamttext automatisch aktualisiert"
             git push
           fi
