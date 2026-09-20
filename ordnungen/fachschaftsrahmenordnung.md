@@ -6,13 +6,13 @@
 
 ### § 1 Begriffsbestimmung und Stellung der Fachschaften <a id="p1"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p01-begriffsbestimmung-und-stellung-der-fachschaften.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p01-begriffsbestimmung-und-stellung-der-fachschaften.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p01-begriffsbestimmung-und-stellung-der-fachschaften.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p01-begriffsbestimmung-und-stellung-der-fachschaften.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p1-1"></a>Die Studierendenschaft der Hochschule Niederrhein gliedert sich in Fachschaften. Alle eingeschriebenen Studierenden eines Fachbereichs bilden die jeweilige Fachschaft.
 
 ### § 2 Aufgaben der Fachschaften <a id="p2"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p02-aufgaben-der-fachschaften.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p02-aufgaben-der-fachschaften.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p02-aufgaben-der-fachschaften.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p02-aufgaben-der-fachschaften.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p2-1"></a>Die Fachschaft nimmt die Aufgaben der Studierendenschaft auf Fachbereichsebene wahr.
 
@@ -30,7 +30,7 @@
 
 ### § 3 Fachschaftsorgane <a id="p3"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p03-fachschaftsorgane.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p03-fachschaftsorgane.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p03-fachschaftsorgane.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p03-fachschaftsorgane.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p3-1"></a>Die Fachschaft erklärt ihren Willen durch ihre Organe. Die Organe der Fachschaft sind:
 
@@ -40,7 +40,7 @@
 
 ### § 4 Die Fachschaftsvollversammlung (FSVV) <a id="p4"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p04-die-fachschaftsvollversammlung-fsvv.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p04-die-fachschaftsvollversammlung-fsvv.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p04-die-fachschaftsvollversammlung-fsvv.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p04-die-fachschaftsvollversammlung-fsvv.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1. Die FSVV ist das höchste beschlussfassende Organ auf Fachbereichsebene. Sie dient der Information, der Diskussion und der Willensbildung aller Studierenden der Fachschaft.
 2. Die FSVV wird vom Fachschaftsrat einberufen.
@@ -50,7 +50,7 @@
 
 ### § 5 Der Fachschaftsrat (FSR) <a id="p5"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p05-der-fachschaftsrat-fsr.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p05-der-fachschaftsrat-fsr.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p05-der-fachschaftsrat-fsr.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p05-der-fachschaftsrat-fsr.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p5-1"></a>Der FSR ist das geschäftsführende (ausführende) Organ der Fachschaft. Er vertritt die Fachschaft nach innen und außen und führt die Beschlüsse der FSVV aus.
 
@@ -76,7 +76,7 @@
 
 ### § 6 Die Fachschaftsrätekonferenz (FSRK) <a id="p6"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p06-die-fachschaftsraetekonferenz-fsrk.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p06-die-fachschaftsraetekonferenz-fsrk.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p06-die-fachschaftsraetekonferenz-fsrk.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p06-die-fachschaftsraetekonferenz-fsrk.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p6-1"></a>Zur Förderung der Kommunikation, des Informationsaustausches und der Koordination fachbereichsübergreifender Projekte wird eine Fachschaftsrätekonferenz (FSRK) gebildet.
 
@@ -90,7 +90,7 @@
 
 ### § 7 Selbstbewirtschaftungsmittel und Haushaltsführung <a id="p7"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p07-selbstbewirtschaftungsmittel-und-haushaltsfuehrung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p07-selbstbewirtschaftungsmittel-und-haushaltsfuehrung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p07-selbstbewirtschaftungsmittel-und-haushaltsfuehrung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p07-selbstbewirtschaftungsmittel-und-haushaltsfuehrung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p7-1"></a>Die Fachschaften erhalten aus dem Haushalt der Studierendenschaft Gelder zur eigenverantwortlichen Erfüllung ihrer Aufgaben (Selbstbewirtschaftungsmittel) gemäß § 16 Abs. 1 HWVO NRW.
 
@@ -102,7 +102,7 @@
 
 ### § 8 Das Finanzreferat der Fachschaft <a id="p8"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p08-das-finanzreferat-der-fachschaft.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p08-das-finanzreferat-der-fachschaft.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p08-das-finanzreferat-der-fachschaft.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p08-das-finanzreferat-der-fachschaft.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p8-1"></a>Das Finanzreferat ist für die ordnungsgemäße Kassenführung, das Führen des Kassenbuchs und die Aufbewahrung aller Belege (Rechnungen, Quittungen) verantwortlich. Es gilt der Grundsatz: Keine Buchung ohne Beleg.
 
@@ -112,7 +112,7 @@
 
 ### § 9 Kassenprüfung und Jahresabschluss <a id="p9"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p09-kassenpruefung-und-jahresabschluss.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p09-kassenpruefung-und-jahresabschluss.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p09-kassenpruefung-und-jahresabschluss.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p09-kassenpruefung-und-jahresabschluss.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p9-1"></a>Am Ende des Haushaltsjahres erstellt die Fachschaft einen Jahresabschluss und legt diesen dem Studierendenparlament vor.
 
@@ -126,7 +126,7 @@
 
 ### § 10 Eigene Fachschaftsordnungen <a id="p10"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p10-eigene-fachschaftsordnungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p10-eigene-fachschaftsordnungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p10-eigene-fachschaftsordnungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p10-eigene-fachschaftsordnungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p10-1"></a>Jede Fachschaft kann sich zur detaillierten Regelung ihrer internen Abläufe (z.B. genauere Regelung von Fachschafts-Referaten wie "Partyreferat", "Erstsemesterreferat" etc.) eine eigene Fachschaftsordnung (FO) geben.
 
@@ -134,6 +134,6 @@
 
 ### § 11 Inkrafttreten <a id="p11"></a>
 
-<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p11-inkrafttreten.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=pNN-kurztitel.md&value=%3C%21--%20einfuegen-nach%3A%20p11-inkrafttreten.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p11-inkrafttreten.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p11-inkrafttreten.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 Diese Fachschaftsrahmenordnung tritt am Tag nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Hochschule Niederrhein in Kraft.

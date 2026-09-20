@@ -13,6 +13,19 @@ anders vermerkt.
 Falls du zum ersten Mal mit GitHub arbeitest: In [CONTRIBUTING.md](CONTRIBUTING.md)
 steht Schritt für Schritt, wie du Änderungsvorschläge einreichen kannst.
 
+## Dokumente
+
+Alle Texte sind **Entwürfe**. Zum **Lesen** führt der Link in der Mitte zum kompletten
+Text; zum **Bearbeiten** gibt es jeden Paragraphen als eigene Datei (rechte Spalte, siehe
+auch [Einzelparagraphen und Gesamttext](#einzelparagraphen-und-gesamttext)).
+
+| Dokument | Gesamttext lesen | Paragraphen bearbeiten |
+|---|---|---|
+| Satzung der Studierendenschaft | [satzung/satzung-der-studierendenschaft.md](satzung/satzung-der-studierendenschaft.md) | [satzung/satzung-der-studierendenschaft/](satzung/satzung-der-studierendenschaft/aufbau.md) |
+| Fachschaftsrahmenordnung (FSRO) | [ordnungen/fachschaftsrahmenordnung.md](ordnungen/fachschaftsrahmenordnung.md) | [ordnungen/fachschaftsrahmenordnung/](ordnungen/fachschaftsrahmenordnung/aufbau.md) |
+| Finanzordnung | [ordnungen/finanzordnung.md](ordnungen/finanzordnung.md) | [ordnungen/finanzordnung/](ordnungen/finanzordnung/aufbau.md) |
+| Muster: Erklärung zur pflichtbewussten Verwaltung der Finanzen des Fachschaftsrats | [vorlagen/erklaerung-finanzverwaltung-fachschaftsrat.md](vorlagen/erklaerung-finanzverwaltung-fachschaftsrat.md) | – |
+
 ## Struktur
 
 ```
@@ -58,38 +71,55 @@ und wird bei späteren Umnummerierungen **nicht** angepasst; maßgeblich für di
 Reihenfolge ist allein `aufbau.md`. Texte vor dem ersten Paragraphen
 (Eingangsformel, Präambel, Einleitung) heißen `00-....md`.
 
+### Nummerierung (automatisch)
+
+Die sichtbare §-Nummer ergibt sich **allein aus der Reihenfolge in
+`aufbau.md`**. Das Skript schreibt sie bei jedem Bauen in
+
+- die Überschriften der Paragraphen-Dateien (`### § 8 ...`),
+- die Zeilen in `aufbau.md`,
+- die Linktexte von Verweisen wie `[§ 14](p14-redeliste.md)` – auch dokumentübergreifend.
+
+Nach dem Einfügen, Verschieben oder Löschen eines Paragraphen rücken alle
+folgenden Nummern also von selbst nach. **Nicht automatisch angepasst** werden
+Verweise auf **Absätze** („Abs. 2“) und Verweise, die nur als **Text im
+Fließtext** stehen („gemäß § 5“). Das Skript listet diese im Build-Protokoll
+auf, sobald umnummeriert wurde; sie müssen von Hand geprüft werden (Suche nach
+`§ ` im Repo). Die Anker-IDs (`p14`) ändern sich nie.
+
 ### Neuen Paragraphen einfügen (einfachster Weg: Button)
 
 1. Im Gesamttext beim Paragraphen, **nach dem** der neue stehen soll, auf
    „➕ Neuen Paragraphen danach einfügen“ klicken. GitHub öffnet einen Editor
    mit einer Vorlage.
-2. **Dateiname** anpassen: `p<Nr>-<kurztitel>.md` (er muss im Ordner eindeutig
-   sein).
-3. In der Vorlage `N` und `Titel` ersetzen, z.B.
-   `### § 8 Rücklagen  <a id="p8"></a>` und `<a id="p8-1"></a>` beim ersten
-   Absatz. Die **Anker-ID muss im Dokument eindeutig sein**; wer zwischen § 7
-   und § 8 einfügt, nimmt z.B. `p7a` statt einer schon vergebenen Nummer.
-   Die erste Zeile `<!-- einfuegen-nach: ... -->` **nicht ändern oder
-   löschen** – sie sagt dem Skript, wohin der Paragraph gehört.
-4. Änderung speichern („Commit changes“ bzw. „Propose changes“ → Pull
-   Request). Sobald sie in `main` ist, trägt die GitHub Action den Paragraphen
-   automatisch in `aufbau.md` ein, entfernt die Markierung und baut den
-   Gesamttext neu.
-5. Sichtbare §-Nummern der folgenden Paragraphen (`### § N ...`) und Verweise
-   darauf von Hand anpassen (siehe Abschnitt zum Renummerierungs-Risiko).
+2. In der Vorlage **nur `Titel` und den Text ersetzen** und ggf. weitere
+   Absätze ergänzen (`2) ...`). `N` in der Überschrift, `pN` in den Anker-IDs,
+   die erste Zeile `<!-- einfuegen-nach: ... -->` und den Dateinamen `neu.md`
+   **nicht ändern** – das erledigt das Skript.
+3. Änderung speichern („Commit changes“ bzw. „Propose changes“ → Pull
+   Request). Sobald sie in `main` ist, macht die GitHub Action daraus einen
+   fertigen Paragraphen: Sie vergibt Nummer, Anker-ID (z.B. `p7a` für einen
+   Paragraphen hinter § 7) und Dateinamen, trägt ihn in `aufbau.md` ein,
+   nummeriert alle folgenden Paragraphen neu und baut den Gesamttext.
+4. Verweise auf **Absätze** und Verweise im **Fließtext** prüfen (siehe
+   „Nummerierung“).
 
-Schlägt der Build fehl (z.B. weil `N`/`Titel` noch in der Überschrift stehen
-oder die Anker-ID doppelt vergeben ist), erscheint unter „Actions“ ein rotes
-Kreuz mit einer Fehlermeldung.
+Schlägt der Build fehl (z.B. weil `Titel` noch in der Überschrift steht),
+erscheint unter „Actions“ ein rotes Kreuz mit einer Fehlermeldung.
 
 ### Paragraph von Hand einfügen, verschieben oder entfernen
 
-1. **Einfügen:** neue Datei im Dokument-Verzeichnis anlegen und in
-   `aufbau.md` als Zeile `- [§ N Titel](dateiname.md)` an der richtigen Stelle
-   eintragen. Eine Datei, die weder in `aufbau.md` steht noch die
+1. **Einfügen:** neue Datei im Dokument-Verzeichnis anlegen (Muster: eine
+   bestehende Datei kopieren) und in `aufbau.md` als Zeile
+   `- [§ N Titel](dateiname.md)` an der richtigen Stelle eintragen; die
+   **Anker-ID** (`<a id="p7a"></a>`) muss im Dokument eindeutig sein. Alternativ
+   die Datei mit der Vorlage aus dem Button anlegen; dann entfällt der
+   Eintrag in `aufbau.md`. Eine Datei, die weder in `aufbau.md` steht noch die
    `einfuegen-nach`-Markierung trägt, bricht den Build ab.
 2. **Entfernen:** Datei löschen und die Zeile aus `aufbau.md` streichen.
 3. **Verschieben:** nur die Zeile in `aufbau.md` an eine andere Stelle setzen.
+
+Die Nummern der Paragraphen passen sich in allen drei Fällen automatisch an.
 
 ## Verweise zwischen Paragraphen
 
@@ -103,8 +133,11 @@ funktioniert:
 ```
 
 Beim Bauen des Gesamttexts werden daraus automatisch Sprungmarken
-(`#p14`, `#p8-1`). Verweise in ein **anderes** Dokument zeigen auf dessen
-Gesamttext, z.B. `[§ 7 Finanzordnung](../ordnungen/finanzordnung.md#p7)`.
+(`#p14`, `#p8-1`), und die Paragraphen-Nummer im Linktext wird bei
+Umnummerierungen automatisch mitgeführt. Verweise in ein **anderes** Dokument
+zeigen auf dessen Gesamttext, z.B.
+`[§ 7 Finanzordnung](../ordnungen/finanzordnung.md#p7)`; auch hier wird die
+Nummer im Linktext aktualisiert.
 
 ## Warum Markdown statt Word?
 
@@ -129,13 +162,15 @@ möglich, deshalb `1)` statt `(1)`)
 - ` 1. ...`, ` a. ...` – Unterpunkte innerhalb eines Absatzes, eine Ebene
 eingerückt
 
-**Renummerierungs-Risiko:** Markdown-Listen nummerieren beim Rendern
-automatisch durch. Fügt jemand einen Absatz ein oder löscht einen, verschieben
-sich alle folgenden Nummern automatisch – bestehende Verweise wie "gemäß § 5
-Abs. 2" an anderer Stelle würden dann unbemerkt auf den falschen Absatz
-zeigen. **Nach jedem Einfügen/Löschen eines Absatzes deshalb gezielt nach
-Verweisen auf die alte Nummerierung suchen** (Volltextsuche nach `§ N` bzw.
-`Abs.` im ganzen Repo) und diese von Hand korrigieren.
+**Renummerierung:** Markdown-Listen nummerieren beim Rendern automatisch
+durch (Absätze `1)`, `2)`, ...), und die §-Nummern setzt das Build-Skript aus
+der Reihenfolge in `aufbau.md` (siehe „Nummerierung (automatisch)“ oben).
+Fügt jemand einen Absatz oder Paragraphen ein oder löscht einen, verschieben
+sich folgende Nummern automatisch; Linktexte wie `[§ 14](...)` werden mit
+angepasst. **Nicht** angepasst werden Verweise auf Absätze („§ 5 Abs. 2“) und
+Verweise, die nur als Text im Fließtext stehen. **Nach jedem Einfügen/Löschen
+deshalb gezielt danach suchen** (Volltextsuche nach `§ N` bzw. `Abs.` im
+ganzen Repo) und von Hand korrigieren.
 
 ## Stabile Anker für Querverweise
 
@@ -160,8 +195,9 @@ zusammen, ist das ein sichtbares Warnsignal beim Lesen, dass der Linktext
 aktualisiert werden muss – der Sprung führt aber trotzdem an die richtige
 Stelle.
 
-Beim Einfügen eines neuen § oder Absatzes: der neuen Stelle ebenfalls eine
-Anker-ID nach demselben Schema geben (`p<§-Nummer>` bzw.
-`p<§-Nummer>-<Absatz-Nummer>`, basierend auf der Nummer zum Zeitpunkt der
-Einführung – die ID muss danach nicht mehr angepasst werden, auch wenn sich
-die sichtbare Nummer später ändert).
+Beim Einfügen eines neuen § über den Button vergibt das Skript die
+Anker-ID selbst (z.B. `p7a` für einen Paragraphen hinter § 7). Wer einen § oder
+Absatz von Hand anlegt, vergibt die ID nach dem Schema `p<§-Nummer>` bzw.
+`p<§-Nummer>-<Absatz-Nummer>` selbst; sie muss im Dokument eindeutig sein und
+wird danach nie mehr angepasst, auch wenn sich die sichtbare Nummer später
+ändert.
