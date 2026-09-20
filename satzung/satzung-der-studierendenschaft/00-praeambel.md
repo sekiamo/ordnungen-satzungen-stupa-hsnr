@@ -1,0 +1,1 @@
+Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um die studentische Selbstverwaltung demokratisch, transparent und nachhaltig zu gestalten. Sie bekennt sich zu den Grundsätzen der Chancengleichheit, der Antidiskriminierung und der Toleranz.
