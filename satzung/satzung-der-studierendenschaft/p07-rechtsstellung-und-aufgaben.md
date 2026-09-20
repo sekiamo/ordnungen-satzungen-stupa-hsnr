@@ -4,9 +4,9 @@
 
 2) <a id="p7-2"></a>Es hat insbesondere folgende Aufgaben:
 
-   1. Beschluss der Satzung und der Ergänzungsordnungen (Wahlordnung, Beitragsordnung etc.),
+   1. Beschluss der Satzung und der ergänzenden Ordnungen, insbesondere der Wahlordnung und der Beitragsordnung,
 
-   2. Wahl, Kontrolle und Entlastung des AStA-Vorstandes,
+   2. Wahl, Kontrolle und Entlastung des AStA-Vorstands sowie
 
    3. Beschlussfassung über den Haushaltsplan und Kontrolle seiner Ausführung.
 

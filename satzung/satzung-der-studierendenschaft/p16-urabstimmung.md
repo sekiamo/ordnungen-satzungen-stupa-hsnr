@@ -6,12 +6,12 @@
 
    1. auf Beschluss des StuPa (mit Zweidrittelmehrheit),
 
-   2. auf Antrag von mindestens 10 % der Studierenden,
+   2. auf Antrag von mindestens 10 Prozent der Studierenden oder
 
-   3. auf Antrag von mehr als 5 Fachschaftsräten unter Nennung des Abstimmungsgegenstands.
+   3. auf Antrag von mehr als die Hälfte der Fachschaftsräten unter Nennung des Abstimmungsgegenstands.
 
 3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens zehn, spätestens zwanzig Tage nach Eingang des gültigen Antrages an mindestens sieben, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
 
 4) <a id="p16-4"></a>Die Stimmabgabe kann analog oder digital nach den Vorgaben der Wahlordnung stattfinden.
 
-5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 % der Mitglieder der Studierendenschaft an ihr teilgenommen haben und die einfache Mehrheit der Abstimmenden zustimmt.
+5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 Prozent der Mitglieder der Studierendenschaft an ihr teilgenommen haben und die einfache Mehrheit der Abstimmenden zustimmt.

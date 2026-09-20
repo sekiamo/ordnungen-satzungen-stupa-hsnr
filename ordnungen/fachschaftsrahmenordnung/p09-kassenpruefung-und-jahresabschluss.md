@@ -2,7 +2,7 @@
 
 1) <a id="p9-1"></a>Am Ende des Haushaltsjahres erstellt die Fachschaft einen Jahresabschluss und legt diesen dem Studierendenparlament vor.
 
-2) <a id="p9-2"></a>Der Jahresabschluss wird in Form eines Rechenschaftsberichts in der FSVV bekannt gegeben. Sollte dies nicht möglich sein, wird der Rechenschaftsbericht über die gängigen Informationskanäle der Fachschaft veröffentlich.
+2) <a id="p9-2"></a>Der Jahresabschluss wird in Form eines Rechenschaftsberichts in der FSVV bekannt gegeben. Sollte dies nicht möglich sein, wird der Rechenschaftsbericht über die gängigen Informationskanäle der Fachschaft veröffentlicht.
 
 3) <a id="p9-3"></a>Das Studierendenparlament hat jederzeit das Recht, Personen zur Einsichtnahme und Kassenprüfung bei den Fachschaften zu beauftragen.
 

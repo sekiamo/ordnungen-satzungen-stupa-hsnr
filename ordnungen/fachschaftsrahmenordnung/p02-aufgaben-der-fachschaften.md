@@ -6,8 +6,8 @@
 
     1. die Vertretung der fachlichen und sozialen Belange ihrer Mitglieder im Fachbereich,
 
-    2. die Beratung von Studierenden und die Betreuung der Studienanfängerinnen und Studienanfänger (z.B. Erstsemestereinführung),
+    2. die Beratung von Studierenden und die Betreuung der Studienanfängerinnen und Studienanfänger (zum Beispiel Erstsemestereinführung),
 
-    3. die Mitwirkung an der Studienreform und die Förderung der interdisziplinären Zusammenarbeit,
+    3. die Mitwirkung an der Studienreform und die Förderung der interdisziplinären Zusammenarbeit und
 
     4. die Förderung der kulturellen Belange der Studierenden im Fachbereich.

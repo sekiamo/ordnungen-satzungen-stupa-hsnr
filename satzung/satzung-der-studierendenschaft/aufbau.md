@@ -17,7 +17,7 @@
 - [§ 5 Digitale Sitzungen](p05-digitale-sitzungen.md)
 - [§ 6 Bekanntgabe von Beschlüssen](p06-bekanntgabe-von-beschluessen.md)
 
-## Teil 2  Das Studierendenparlament
+## Teil 2 Das Studierendenparlament
 
 - [§ 7 Rechtsstellung und Aufgaben](p07-rechtsstellung-und-aufgaben.md)
 - [§ 8 Zusammensetzung und Wahl](p08-zusammensetzung-und-wahl.md)
@@ -25,7 +25,7 @@
 - [§ 10 Das Präsidium](p10-das-praesidium.md)
 - [§ 11 Ausschüsse](p10a-ausschuesse.md)
 
-## Teil 3 Allgemeiner Studierendenausschuss (AstA)
+## Teil 3 Allgemeiner Studierendenausschuss (AStA)
 
 - [§ 12 Rechtsstellung, Aufgaben und Beschlussfassung](p11-rechtsstellung-aufgaben-und-beschlussfassung.md)
 - [§ 13 Zusammensetzung](p12-zusammensetzung.md)
@@ -33,7 +33,7 @@
 - [§ 15 Referierende](p14-referierende.md)
 - [§ 16 Finanzreferat](p15-finanzreferat.md)
 
-## Teil 4  Unmittelbare studentische Teilhabe
+## Teil 4 Unmittelbare studentische Teilhabe
 
 - [§ 17 Urabstimmung](p16-urabstimmung.md)
 - [§ 18 Vollversammlung](p17-vollversammlung.md)

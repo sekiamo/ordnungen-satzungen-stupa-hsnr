@@ -7,7 +7,7 @@
       4) ein Rechtsausschuss und
       5) ein Härtefallausschuss einzurichten.
 
-Das Nähere zu weiteren Ausschüssen sowie zum Verfahren regeln die Geschäftsordnung des StuPa und die jeweiligen thematischen Ordnungen.    
+   1. ein Haushaltsausschuss,
 
 3) <a id="p10a-2"></a>Die Mitglieder der Ausschüsse werden von den Fraktionen des StuPa benannt; ihre Amtszeit entspricht der Wahlperiode des StuPa.
 
