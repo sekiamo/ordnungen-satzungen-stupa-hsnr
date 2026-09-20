@@ -1,5 +1,4 @@
-<!-- einfuegen-nach: p10-das-praesidium.md -->
-### § N Ausschüsse  <a id="pN"></a>
+### § 11 Ausschüsse  <a id="p10a"></a>
 
 1) <a id="p11-1"></a>Zur fachlichen Entlastung bildet das StuPa Ausschüsse. Als ständige Ausschüsse sind mindestens einzurichten
    

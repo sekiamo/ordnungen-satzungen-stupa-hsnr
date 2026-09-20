@@ -1,4 +1,4 @@
-### § 11 Rechtsstellung, Aufgaben und Beschlussfassung  <a id="p11"></a>
+### § 12 Rechtsstellung, Aufgaben und Beschlussfassung  <a id="p11"></a>
 
 1) <a id="p11-1"></a>Der AStA vertritt die Studierendenschaft nach außen. Er führt die Beschlüsse des Studierendenparlaments aus und erledigt die Geschäfte der laufenden Verwaltung.
 

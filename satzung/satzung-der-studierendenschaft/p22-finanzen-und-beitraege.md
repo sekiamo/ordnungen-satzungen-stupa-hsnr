@@ -1,4 +1,4 @@
-### § 22 Finanzen und Beiträge  <a id="p22"></a>
+### § 23 Finanzen und Beiträge  <a id="p22"></a>
 
 1) <a id="p22-1"></a>Die Studierendenschaft hat ein eigenes Vermögen und erhebt von ihren Mitgliedern Beiträge (Semesterbeitrag), die über eine Beitragsordnung festgelegt werden.
 

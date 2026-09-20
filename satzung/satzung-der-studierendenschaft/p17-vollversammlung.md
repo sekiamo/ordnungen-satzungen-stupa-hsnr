@@ -1,4 +1,4 @@
-### § 17 Vollversammlung  <a id="p17"></a>
+### § 18 Vollversammlung  <a id="p17"></a>
 
 1) <a id="p17-1"></a>Die Vollversammlung dient der Information und Meinungsbildung der gesamten Studierendenschaft. Sie kann Empfehlungen an das StuPa und den AStA aussprechen.
 

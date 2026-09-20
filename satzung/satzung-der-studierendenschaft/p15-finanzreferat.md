@@ -1,4 +1,4 @@
-### § 15 Finanzreferat  <a id="p15"></a>
+### § 16 Finanzreferat  <a id="p15"></a>
 
 1) <a id="p15-1"></a>Das Finanzreferat ist für die ordnungsgemäße Haushalts- und Wirtschaftsführung der Studierendenschaft nach Maßgabe der gesetzlichen Bestimmungen (insbesondere der HWVO NRW) und der Finanzordnung verantwortlich.
 

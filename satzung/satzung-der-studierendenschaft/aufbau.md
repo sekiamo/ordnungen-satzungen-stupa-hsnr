@@ -23,39 +23,40 @@
 - [§ 8 Zusammensetzung und Wahl](p08-zusammensetzung-und-wahl.md)
 - [§ 9 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)](p09-unvereinbarkeit-von-amt-und-mandat-ruhen-des-mandats.md)
 - [§ 10 Das Präsidium](p10-das-praesidium.md)
+- [§ 11 Ausschüsse](p10a-ausschuesse.md)
 
 ## Teil 3 Allgemeiner Studierendenausschuss (AstA)
 
-- [§ 11 Rechtsstellung, Aufgaben und Beschlussfassung](p11-rechtsstellung-aufgaben-und-beschlussfassung.md)
-- [§ 12 Zusammensetzung](p12-zusammensetzung.md)
-- [§ 13 Der AStA-Vorstand](p13-der-asta-vorstand.md)
-- [§ 14 Referierende](p14-referierende.md)
-- [§ 15 Finanzreferat](p15-finanzreferat.md)
+- [§ 12 Rechtsstellung, Aufgaben und Beschlussfassung](p11-rechtsstellung-aufgaben-und-beschlussfassung.md)
+- [§ 13 Zusammensetzung](p12-zusammensetzung.md)
+- [§ 14 Der AStA-Vorstand](p13-der-asta-vorstand.md)
+- [§ 15 Referierende](p14-referierende.md)
+- [§ 16 Finanzreferat](p15-finanzreferat.md)
 
 ## Teil 4  Unmittelbare studentische Teilhabe
 
-- [§ 16 Urabstimmung](p16-urabstimmung.md)
-- [§ 17 Vollversammlung](p17-vollversammlung.md)
+- [§ 17 Urabstimmung](p16-urabstimmung.md)
+- [§ 18 Vollversammlung](p17-vollversammlung.md)
 
 ## Teil 5 Interessenvertretung und studentisches Engagement
 
-- [§ 18 Autonome Referate](p18-autonome-referate.md)
-- [§ 19 Studentische Hochschulgruppen und Initiativen](p19-studentische-hochschulgruppen-und-initiativen.md)
+- [§ 19 Autonome Referate](p18-autonome-referate.md)
+- [§ 20 Studentische Hochschulgruppen und Initiativen](p19-studentische-hochschulgruppen-und-initiativen.md)
 
 ## Teil 6 Fachschaften
 
-- [§ 20 Gliederung und Organe](p20-gliederung-und-organe.md)
+- [§ 21 Gliederung und Organe](p20-gliederung-und-organe.md)
 
 ## Teil 7 Rechtsprechung und Schlichtung
 
-- [§ 21 Schlichtungsrat](p21-schlichtungsrat.md)
+- [§ 22 Schlichtungsrat](p21-schlichtungsrat.md)
 
 ## Teil 8 Haushalts- und Kassenwesen
 
-- [§ 22 Finanzen und Beiträge](p22-finanzen-und-beitraege.md)
+- [§ 23 Finanzen und Beiträge](p22-finanzen-und-beitraege.md)
 
 ## Teil 9 Schlussbestimmungen
 
-- [§ 23 Ergänzende Ordnungen](p23-ergaenzende-ordnungen.md)
-- [§ 24 Satzungsänderung](p24-satzungsaenderung.md)
-- [§ 25 Inkrafttreten und Außerkrafttreten](p25-inkrafttreten-und-ausserkrafttreten.md)
+- [§ 24 Ergänzende Ordnungen](p23-ergaenzende-ordnungen.md)
+- [§ 25 Satzungsänderung](p24-satzungsaenderung.md)
+- [§ 26 Inkrafttreten und Außerkrafttreten](p25-inkrafttreten-und-ausserkrafttreten.md)

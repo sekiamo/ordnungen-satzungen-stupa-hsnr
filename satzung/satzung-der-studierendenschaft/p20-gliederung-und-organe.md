@@ -1,4 +1,4 @@
-### § 20 Gliederung und Organe  <a id="p20"></a>
+### § 21 Gliederung und Organe  <a id="p20"></a>
 
 1) <a id="p20-1"></a>Die Studierendenschaft gliedert sich in Fachschaften entsprechend der Fachbereiche der Hochschule.
 

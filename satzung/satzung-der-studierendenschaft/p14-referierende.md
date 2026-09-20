@@ -1,4 +1,4 @@
-### § 14 Referierende  <a id="p14"></a>
+### § 15 Referierende  <a id="p14"></a>
 
 1) <a id="p14-1"></a>Das StuPa beschließt, welche Referate dem AStA angehören sollen.
 

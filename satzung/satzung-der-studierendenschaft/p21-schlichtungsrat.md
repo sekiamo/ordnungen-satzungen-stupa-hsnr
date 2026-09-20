@@ -1,4 +1,4 @@
-### § 21 Schlichtungsrat  <a id="p21"></a>
+### § 22 Schlichtungsrat  <a id="p21"></a>
 
 1) <a id="p21-1"></a>Zur Klärung von Streitigkeiten über die Auslegung dieser Satzung und anderer Ordnungen der Studierendenschaft bildet das StuPa einen unabhängigen Schlichtungsrat.
 
