@@ -8,7 +8,7 @@
 
    2. auf Antrag von mindestens 10 Prozent der Studierenden oder
 
-   3. auf Antrag von mehr als die Hälfte der Fachschaftsräten unter Nennung des Abstimmungsgegenstands.
+   3. auf Antrag von mehr als der Hälfte der Fachschaftsräte unter Nennung des Abstimmungsgegenstands.
 
 3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens zehn, spätestens zwanzig Tage nach Eingang des gültigen Antrages an mindestens sieben, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
 
