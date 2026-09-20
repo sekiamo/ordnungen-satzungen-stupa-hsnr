@@ -2,7 +2,7 @@
 
 > **Gesamttext – bitte hier nicht bearbeiten.** Diese Datei wird automatisch aus den Einzelparagraphen in [`satzung-der-studierendenschaft/`](satzung-der-studierendenschaft/aufbau.md) erzeugt. Änderungen gehören in die jeweilige Paragraphen-Datei dort.
 
-Aufgrund des § 53 Abs. 4 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz – HG) vom 16. September 2014 (GV. NRW. S. 547), in der jeweils geltenden Fassung, hat das Studierendenparlament der Hochschule Niederrhein die folgende Satzung beschlossen:
+Aufgrund des § 53 Absatz 4 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz – HG) vom 16. September 2014 (GV. NRW. S. 547), in der jeweils geltenden Fassung, hat das Studierendenparlament der Hochschule Niederrhein die folgende Satzung beschlossen:
 
 ## Präambel
 
@@ -24,7 +24,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p02-aufgaben-der-studierendenschaft.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p02-aufgaben-der-studierendenschaft.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p2-1"></a>Die Studierendenschaft hat unbeschadet der Zuständigkeiten der Hochschule insbesondere folgende Aufgaben:
+1) <a id="p2-1"></a>Die Studierendenschaft hat insbesondere folgende Aufgaben:
 
    1. Wahrnehmung der hochschulpolitischen, fachlichen, wirtschaftlichen und sozialen Belange ihrer Mitglieder,
 
@@ -32,11 +32,13 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
    3. Förderung der politischen Bildung, des staatsbürgerlichen Verantwortungsbewusstseins und der Bereitschaft zur aktiven Toleranz,
 
-   4. Förderung der kulturellen Belange und des Studierendensports,
+   4. Förderung der kulturellen Belange und des Studierendensports sowie
 
    5. Pflege überörtlicher und internationaler Studierendenbeziehungen.
 
 2) <a id="p2-2"></a>Die Studierendenschaft tritt aktiv für Gleichstellung und gegen Diskriminierung ein. Niemand darf aufgrund des Geschlechts, der sexuellen Identität, der Herkunft, des Glaubens, einer Behinderung oder chronischen Erkrankung benachteiligt werden. Besondere Belange von Studierenden mit Behinderung, chronischer Erkrankung oder mit Pflege- und Familienverantwortung sind zu berücksichtigen.
+
+3) <a id="p2-3"></a>Die Zuständigkeiten der Hochschule bleiben unberührt.
 
 ### § 3 Rechte und Pflichten der Mitglieder  <a id="p3"></a>
 
@@ -52,9 +54,9 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p04-organe-der-studierendenschaft.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p04-organe-der-studierendenschaft.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p4-1"></a>Die Organe der Studierendenschaft sind:
+<a id="p4-1"></a>Die Organe der Studierendenschaft sind:
 
-   1. das Studierendenparlament (StuPa),
+   1. das Studierendenparlament (StuPa) und
 
    2. der Allgemeine Studierendenausschuss (AStA).
 
@@ -62,7 +64,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p05-digitale-sitzungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p05-digitale-sitzungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p5-1"></a>Mit Ausnahme der Sitzung des Studierendenparlaments betrefffend der Wahlen zum Allgemeinen Studierendenausschuss dürfen alle Gremien der Studierendenschaft ihre Sitzungen in elektronischer Kommunikation oder hybrid abhalten, sofern ihre jeweilige Geschäftsordnung dies nicht ausschließt.
+1) <a id="p5-1"></a>Mit Ausnahme der Sitzung des Studierendenparlaments betreffend der Wahlen zum Allgemeinen Studierendenausschuss dürfen alle Gremien der Studierendenschaft ihre Sitzungen in elektronischer Kommunikation oder hybrid abhalten, sofern ihre jeweilige Geschäftsordnung dies nicht ausschließt.
 
 2) <a id="p5-2"></a>Beschlüsse können, soweit nicht anders geregelt, auch in elektronischer Kommunikation oder im Umlaufverfahren (Textform) gefasst werden.
 
@@ -74,7 +76,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 2) <a id="p6-2"></a>Organbeschlüsse sind digital zu dokumentieren und dauerhaft abrufbar zu archivieren. Die Veröffentlichung erfolgt über die allgemein zugänglichen und aktiv beworbenen Informationskanäle des beschlussfassenden Organs. Entsprechendes gilt für die Fachschaften.
 
-## Teil 2  Das Studierendenparlament
+## Teil 2 Das Studierendenparlament
 
 ### § 7 Rechtsstellung und Aufgaben  <a id="p7"></a>
 
@@ -84,9 +86,9 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 2) <a id="p7-2"></a>Es hat insbesondere folgende Aufgaben:
 
-   1. Beschluss der Satzung und der Ergänzungsordnungen (Wahlordnung, Beitragsordnung etc.),
+   1. Beschluss der Satzung und der ergänzenden Ordnungen, insbesondere der Wahlordnung und der Beitragsordnung,
 
-   2. Wahl, Kontrolle und Entlastung des AStA-Vorstandes,
+   2. Wahl, Kontrolle und Entlastung des AStA-Vorstands sowie
 
    3. Beschlussfassung über den Haushaltsplan und Kontrolle seiner Ausführung.
 
@@ -108,15 +110,19 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
    3. die studentischen Mitglieder der Gleichstellungskommission,
 
-   4. die studentischen Mitglieder des Senats,
+   4. die studentischen Mitglieder des Senats und
 
    5. die Mitglieder des Vorstands des AStA.
 
 4) <a id="p8-4"></a>Beratende Mitglieder haben dauerhaftes Rede- und Antragsrecht. Sie haben kein Stimmrecht und können nicht in das Präsidium des StuPa gewählt werden. Sollte ein beratendes Mitglied zugleich ordentlich gewähltes, stimmberechtigtes Mitglied sein, behält es sein Stimmrecht.
-5) <a id="p8-5"></a>Jeder Liste die Sich zur Wahl aufstellt, können Kosten, die im Rahmen des Wahlkampfes entstanden sind, erstatten werden
-   1. Es sind maximal 400€ erstattbar.
-   2. Es ist eine Abrechnung mit sämtlichen Belegen zu erstellen; nur belegte Kosten können erstattet werden.
-   3. Die Abrechnung ist spätestens 14 Tage nach der Ergebnisverkündung beim AStA einzureichen.
+
+5) <a id="p8-5"></a>Jeder Liste, die sich zur Wahl aufstellt, können Kosten, die im Rahmen des Wahlkampfes entstanden sind, nach Maßgabe der Absätze 6 bis 8 erstattet werden.
+
+6) <a id="p8-6"></a>Es sind maximal 400 Euro erstattbar.
+
+7) <a id="p8-7"></a>Es ist eine Abrechnung mit sämtlichen Belegen zu erstellen; nur belegte Kosten können erstattet werden.
+
+8) <a id="p8-8"></a>Die Abrechnung ist spätestens vierzehn Tage nach der Ergebnisverkündung beim AStA einzureichen.
 
 ### § 9 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)  <a id="p9"></a>
 
@@ -150,7 +156,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
       4) ein Rechtsausschuss und
       5) ein Härtefallausschuss einzurichten.
 
-Das Nähere zu weiteren Ausschüssen sowie zum Verfahren regeln die Geschäftsordnung des StuPa und die jeweiligen thematischen Ordnungen.    
+   1. ein Haushaltsausschuss,
 
 3) <a id="p10a-2"></a>Die Mitglieder der Ausschüsse werden von den Fraktionen des StuPa benannt; ihre Amtszeit entspricht der Wahlperiode des StuPa.
 
@@ -158,7 +164,7 @@ Das Nähere zu weiteren Ausschüssen sowie zum Verfahren regeln die Geschäftsor
 
 5) <a id="p10a-4"></a>Ist ein Ausschusssitz nach Ablauf dieser Frist nicht benannt, kann das StuPa ihn ab der zweiten ordentlichen Sitzung der Wahlperiode mit einfacher Mehrheit der anwesenden Mitglieder nach eigenem Ermessen besetzen. Das Benennungsrecht der betroffenen Fraktion erlischt damit für die laufende Wahlperiode.
 
-## Teil 3 Allgemeiner Studierendenausschuss (AstA)
+## Teil 3 Allgemeiner Studierendenausschuss (AStA)
 
 ### § 12 Rechtsstellung, Aufgaben und Beschlussfassung  <a id="p11"></a>
 
@@ -198,15 +204,15 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p15-finanzreferat.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p15-finanzreferat.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p15-1"></a>Das Finanzreferat ist für die ordnungsgemäße Haushalts- und Wirtschaftsführung der Studierendenschaft nach Maßgabe der gesetzlichen Bestimmungen (insbesondere der HWVO NRW) und der Finanzordnung verantwortlich.
+1) <a id="p15-1"></a>Das Finanzreferat ist für die ordnungsgemäße Haushalts- und Wirtschaftsführung der Studierendenschaft nach Maßgabe der gesetzlichen Bestimmungen, insbesondere der Haushalts- und Wirtschaftsführungs-Verordnung der Studierendenschaften NRW (HWVO NRW), und der Finanzordnung verantwortlich.
 
-2) <a id="p15-2"></a>Die Leitung des Finanzreferats wird gesondert vom Studierendenparlament mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder gewählt. Eine vorzeitige Abwahl ist  nur durch die gleichzeitige Wahl einer Nachfolge (konstruktives Misstrauensvotum) möglich.
+2) <a id="p15-2"></a>Die Leitung des Finanzreferats wird gesondert vom Studierendenparlament mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder gewählt. Eine vorzeitige Abwahl ist nur durch die gleichzeitige Wahl einer Nachfolge (konstruktives Misstrauensvotum) möglich.
 
 3) <a id="p15-3"></a>Dem Finanzreferat steht bei Beschlüssen des AStA und des Studierendenparlaments, welche die finanziellen Interessen der Studierendenschaft gefährden oder gegen die Grundsätze der Wirtschaftlichkeit und Sparsamkeit verstoßen, ein aufschiebendes Veto-Recht zu. Das Nähere regelt die Finanzordnung.
 
 4) <a id="p15-4"></a>Das Finanzreferat ist in Angelegenheiten der rechtmäßigen Kassenführung, Buchhaltung und Mittelbewirtschaftung an keine inhaltlichen Weisungen anderer AStA-Mitglieder gebunden.
 
-## Teil 4  Unmittelbare studentische Teilhabe
+## Teil 4 Unmittelbare studentische Teilhabe
 
 ### § 17 Urabstimmung  <a id="p16"></a>
 
@@ -218,15 +224,15 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
    1. auf Beschluss des StuPa (mit Zweidrittelmehrheit),
 
-   2. auf Antrag von mindestens 10 % der Studierenden,
+   2. auf Antrag von mindestens 10 Prozent der Studierenden oder
 
-   3. auf Antrag von mehr als 5 Fachschaftsräten unter Nennung des Abstimmungsgegenstands.
+   3. auf Antrag von mehr als die Hälfte der Fachschaftsräten unter Nennung des Abstimmungsgegenstands.
 
 3) <a id="p16-3"></a>Die Urabstimmung wird geleitet vom Ständigen Wahlausschuss. Sie findet frühestens zehn, spätestens zwanzig Tage nach Eingang des gültigen Antrages an mindestens sieben, nach Möglichkeit aufeinanderfolgenden Kalendertagen statt. Eine Verlängerung ist möglich.
 
 4) <a id="p16-4"></a>Die Stimmabgabe kann analog oder digital nach den Vorgaben der Wahlordnung stattfinden.
 
-5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 % der Mitglieder der Studierendenschaft an ihr teilgenommen haben und die einfache Mehrheit der Abstimmenden zustimmt.
+5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 Prozent der Mitglieder der Studierendenschaft an ihr teilgenommen haben und die einfache Mehrheit der Abstimmenden zustimmt.
 
 ### § 18 Vollversammlung  <a id="p17"></a>
 
@@ -238,7 +244,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
    1. auf Beschluss des StuPa,
 
-   2. auf Antrag von 5 % der Studierenden,
+   2. auf Antrag von 5 Prozent der Studierenden oder
 
    3. auf Antrag von mehr als 3 Fachschaftsräten.
 
@@ -258,11 +264,11 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
    1. Referat für ausländische und internationale Studierende,
 
-   2. Queer-Feminismus- Referat,
+   2. Queer-Feminismus-Referat und
 
    3. Enthinderungsreferat.
 
-4) <a id="p18-4"></a>Die Referierenden der Autonomen Referate werden vom Studierendenparlament gewählt. Das Vorschlagsrecht obliegt ausschließlich der jeweiligen Statusgruppe (z. B. im Rahmen einer thematischen Vollversammlung). Die Autonomen Referate arbeiten in inhaltlichen Fragen weisungsungebunden gegenüber dem AStA-Vorstand, sind dem Studierendenparlament jedoch rechenschaftspflichtig.
+4) <a id="p18-4"></a>Die Referierenden der Autonomen Referate werden vom Studierendenparlament gewählt. Das Vorschlagsrecht obliegt ausschließlich der jeweiligen Statusgruppe (zum Beispiel im Rahmen einer thematischen Vollversammlung). Die Autonomen Referate arbeiten in inhaltlichen Fragen weisungsungebunden gegenüber dem AStA-Vorstand, sind dem Studierendenparlament jedoch rechenschaftspflichtig.
 
 5) <a id="p18-5"></a>Den Autonomen Referaten sind im Haushaltsplan angemessene finanzielle Mittel zur eigenständigen Bewirtschaftung zur Verfügung zu stellen.
 
@@ -286,7 +292,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 2) <a id="p20-2"></a>Organe der Fachschaft sind die Fachschaftsvollversammlung und der Fachschaftsrat (FSR).
 
-3) <a id="p20-3"></a>Ein Fachschaftsrat besteht aus einem Vorsitz, einer Stellvertretung und acht weiteren Mitglieder (insgesamt 10 Mitglieder)
+3) <a id="p20-3"></a>Ein Fachschaftsrat besteht aus einem Vorsitz, einer Stellvertretung und acht weiteren Mitgliedern (insgesamt 10 Mitglieder).
 
 4) <a id="p20-4"></a>Alles Weitere regelt eine vom StuPa zu beschließende Fachschaftsrahmenordnung.
 
@@ -308,7 +314,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 1) <a id="p22-1"></a>Die Studierendenschaft hat ein eigenes Vermögen und erhebt von ihren Mitgliedern Beiträge (Semesterbeitrag), die über eine Beitragsordnung festgelegt werden.
 
-2) <a id="p22-2"></a>Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Haushalts- und Wirtschaftsführungs-Verordnung der Studierendenschaften NRW (HWVO NRW).
+2) <a id="p22-2"></a>Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der HWVO NRW.
 
 3) <a id="p22-3"></a>Das Haushaltsjahr beginnt am 1. September jeden Jahres.
 
@@ -328,18 +334,20 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
    3. Fachschaftsrahmenordnung,
 
-   4. Finanzordnung,
+   4. Finanzordnung und
 
-   5. Geschäftsordnungen für StuPa und AStA. Darüber hinaus können Musterordnungen (z.B. für Autonome Referate oder Hochschulgruppen) erlassen werden.
+   5. Geschäftsordnungen für StuPa und AStA.
+
+2) <a id="p23-2"></a>Darüber hinaus können Musterordnungen, zum Beispiel für Autonome Referate oder Hochschulgruppen, erlassen werden.
 
 ### § 25 Satzungsänderung  <a id="p24"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p24-satzungsaenderung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p24-satzungsaenderung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p24-1"></a>Änderungen dieser Satzung bedürfen eines Beschlusses mit einer Mehrheit der Mitglieder des Studierendenparlaments, oder eines entsprechenden Beschlusses einer Urabstimmung.
+<a id="p24-1"></a>Änderungen dieser Satzung bedürfen eines Beschlusses mit einer Mehrheit der Mitglieder des Studierendenparlaments, oder eines entsprechenden Beschlusses einer Urabstimmung.
 
 ### § 26 Inkrafttreten und Außerkrafttreten  <a id="p25"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p25-inkrafttreten-und-ausserkrafttreten.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p25-inkrafttreten-und-ausserkrafttreten.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p25-1"></a>Diese Satzung bedarf der Genehmigung des Präsidiums der Hochschule Niederrhein. Sie tritt am Tag nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Hochschule in Kraft. Gleichzeitig tritt die bisherige Satzung der Studierendenschaft außer Kraft.
+<a id="p25-1"></a>Diese Satzung bedarf der Genehmigung des Präsidiums der Hochschule Niederrhein. Sie tritt am Tag nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Hochschule in Kraft. Gleichzeitig tritt die bisherige Satzung der Studierendenschaft außer Kraft.

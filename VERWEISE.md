@@ -16,4 +16,4 @@ Diese Verweise sind nur Text („§ 5 Abs. 2“). Sie werden nur als Hinweis gep
 
 | Von | Verweis | Stelle |
 |---|---|---|
-| satzung-der-studierendenschaft (00-eingangsformel.md) | § 53 Abs. 4 | satzung/satzung-der-studierendenschaft/00-eingangsformel.md:1 |
+| satzung-der-studierendenschaft (00-eingangsformel.md) | § 53 Absatz 4 | satzung/satzung-der-studierendenschaft/00-eingangsformel.md:1 |
