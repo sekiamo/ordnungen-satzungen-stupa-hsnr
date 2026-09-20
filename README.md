@@ -26,13 +26,18 @@ auch [Einzelparagraphen und Gesamttext](#einzelparagraphen-und-gesamttext)).
 | Finanzordnung | [ordnungen/finanzordnung.md](ordnungen/finanzordnung.md) | [ordnungen/finanzordnung/](ordnungen/finanzordnung/aufbau.md) |
 | Muster: Erklärung zur pflichtbewussten Verwaltung der Finanzen des Fachschaftsrats | [vorlagen/erklaerung-finanzverwaltung-fachschaftsrat.md](vorlagen/erklaerung-finanzverwaltung-fachschaftsrat.md) | – |
 
+Wie Paragraphen, Listen, Verweise, Zahlen usw. geschrieben werden, steht mit
+Vorlagen zum Kopieren in [FORMATIERUNG.md](FORMATIERUNG.md).
+
 ## Struktur
 
 ```
 satzung/      Die Satzung der Studierendenschaft (Grundordnung)
 ordnungen/    Ergänzende Ordnungen (Fachschaftsrahmenordnung, Finanzordnung)
 vorlagen/     Muster-/Beispieldokumente (z.B. Erklärungen, Formulare)
-tools/        Skript, das den Gesamttext aus den Einzelparagraphen erzeugt
+tools/        Skript, das den Gesamttext aus den Einzelparagraphen erzeugt;
+              tools/bots/ = Anleitung für KI-Assistenten (Formatierung prüfen)
+FORMATIERUNG.md   Formatierungsvorlagen und Schreibregeln (Handbuch der Rechtsförmlichkeit)
 .github/      Automatisierung (baut den Gesamttext nach jeder Änderung)
 ```
 
