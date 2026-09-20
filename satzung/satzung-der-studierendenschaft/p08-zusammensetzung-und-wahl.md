@@ -1,6 +1,6 @@
 ### § 8 Zusammensetzung und Wahl  <a id="p8"></a>
 
-1) <a id="p8-1"></a>Das Studierendenparlament besteht aus einundzwanzig stimmberechtigten Mitgliedern.
+1) <a id="p8-1"></a>Das Studierendenparlament besteht aus 21 stimmberechtigten Mitgliedern.
 
 2) <a id="p8-2"></a>Es wird von den Mitgliedern der Studierendenschaft in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Die Amtszeit beträgt ein Jahr.
 
