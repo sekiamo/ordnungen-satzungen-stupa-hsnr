@@ -1,6 +1,6 @@
 # Querverweise
 
-> **Automatisch erzeugt – bitte nicht bearbeiten.** Die Liste entsteht bei jedem Push aus `tools/check_verweise.py --write-liste`. Sie zeigt, wer auf welchen Paragraphen/Absatz verweist. Wird ein hier gelistetes Ziel geändert, schlägt die Prüfung Alarm (siehe README, Abschnitt „Querverweise prüfen“).
+> **Automatisch erzeugt – bitte nicht bearbeiten.** Die Liste entsteht bei jedem Push aus `tools/check_verweise.py --write-liste`. Sie zeigt, wer auf welchen Paragraphen/Absatz verweist. Wird ein hier gelistetes Ziel geändert, schlägt die Prüfung Alarm (siehe TECHNIK.md, Abschnitt „Querverweise prüfen“).
 
 1 Verweise mit Link, 1 Verweise im Fließtext.
 

@@ -341,7 +341,7 @@ def write_liste(cur, path):
            '> **Automatisch erzeugt – bitte nicht bearbeiten.** Die Liste entsteht bei jedem Push aus '
            '`tools/check_verweise.py --write-liste`. Sie zeigt, wer auf welchen Paragraphen/Absatz '
            'verweist. Wird ein hier gelistetes Ziel geändert, schlägt die Prüfung Alarm '
-           '(siehe README, Abschnitt „Querverweise prüfen“).', '',
+           '(siehe TECHNIK.md, Abschnitt „Querverweise prüfen“).', '',
            f'{len(cur.refs)} Verweise mit Link, {len(cur.plain)} Verweise im Fließtext.', '',
            '## Verweise mit Link, nach Ziel', '']
     if by_target:

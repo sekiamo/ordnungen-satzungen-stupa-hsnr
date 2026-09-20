@@ -5,7 +5,7 @@ name: Querverweise prüfen
 #   ALARM   Text eines Paragraphen/Absatzes geändert, auf den verwiesen wird
 # Fehler lassen die Prüfung immer scheitern. Ein Alarm lässt sie scheitern, bis
 # die Verweise geprüft sind: im Pull Request das Label "verweise-geprueft" setzen.
-# Details: README, Abschnitt "Querverweise prüfen".
+# Details: TECHNIK.md, Abschnitt "Querverweise prüfen".
 
 on:
   push:

@@ -36,7 +36,7 @@ dich (du kannst gar nicht versehentlich `main` überschreiben).
 - Ändere möglichst nur das, was inhaltlich gemeint ist – keine
 Rechtschreib-"Aufräumaktionen" quer durchs Dokument in derselben
 Änderung, das macht die Prüfung für andere unnötig schwer.
-- Beachte die Nummerierungs-Konvention aus der [README](README.md):
+- Beachte die Nummerierungs-Konvention aus [TECHNIK.md](TECHNIK.md):
 Absätze sind als `1)`, `2)`, ... geschrieben (echte Markdown-Liste).
 Die §-Nummern in Überschriften und in Verweis-Links setzt das Skript
 beim Bauen **automatisch**; du musst sie nicht anpassen. Prüfe nach
@@ -68,7 +68,7 @@ einen neuen Branch-Namen eingeben, z.B. `aenderung-finanzordnung-ruecklagen`.
 bearbeiten ("Edit this file"), alle Änderungen landen im selben Branch.
 Einen **neuen Paragraphen** legst du am einfachsten über den Link
 „➕ Neuen Paragraphen danach einfügen“ im Gesamttext an (Details:
-Abschnitt „Neuen Paragraphen einfügen“ in der [README](README.md)).
+Abschnitt „Neuen Paragraphen einfügen“ in [TECHNIK.md](TECHNIK.md)).
 3. Wenn du fertig bist: oben auf "Contribute" → "Open pull request" klicken,
 kurze Beschreibung schreiben, "Create pull request".
 
