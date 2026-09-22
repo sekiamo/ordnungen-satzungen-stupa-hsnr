@@ -154,7 +154,7 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 5) <a id="p14-5"></a>Jede Fachschaft wählt eine finanzverantwortliche Person. Diese Person führt über die Ein- und Auszahlungen der Fachschaft genau Buch (Kassenbuch) und belegt alle Buchungen.
 
-6) <a id="p14-6"></a>Nach Abschluss des Haushaltsjahres reicht jede Fachschaft dem Haushaltsausschuss einen eigenen Rechnungsabschluss zur Prüfung ein.
+6) <a id="p14-6"></a>Nach Abschluss des Haushaltsjahres reicht jede Fachschaft dem Haushaltsausschuss einen eigenen Rechnenschaftsbericht zur Prüfung ein.
 
 ### § 15 Förderung studentischer Initiativen <a id="p15"></a>
 
