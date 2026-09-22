@@ -2,6 +2,6 @@
 
 <a id="p3-1"></a>Die Fachschaft erklärt ihren Willen durch ihre Organe. Die Organe der Fachschaft sind:
 
-      1. die Fachschaftsvollversammlung (FSVV) und
+ 1. die Fachschaftsvollversammlung (FSVV) und
 
-      2. der Fachschaftsrat (FSR).
+ 2. der Fachschaftsrat (FSR).
