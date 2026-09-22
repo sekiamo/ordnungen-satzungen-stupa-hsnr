@@ -122,13 +122,15 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p12-aufwandsentschaedigungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p12-aufwandsentschaedigungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p12-1"></a>Mitgliedern der Studierendenschaft, die sich in erheblichem Maß zeitlich für die studentische Selbstverwaltung betätigen (insbesondere AStA-Vorstand und Referate), kann eine monatliche Aufwandsentschädigung gewährt werden.
+1) <a id="p12-1"></a>Mitgliedern der Studierendenschaft, die sich in erheblichem Maß zeitlich für die studentische Selbstverwaltung betätigen, kann eine monatliche Aufwandsentschädigung gewährt werden.
 
 2) <a id="p12-2"></a>Die Höhe der Aufwandsentschädigung für Referatsbesetzungen beträgt maximal 560 Euro.
 
 3) <a id="p12-3"></a>Die Höhe der Aufwandsentschädigung für den AStA-Vorstand beträgt maximal 1 200 Euro.
 
-4) <a id="p12-4"></a>Angegebene Aufwandsentschädigungen verstehen sich grundsätzlich als Kostenbetrag für die Studierendenschaft vor etwaigen Abzügen (Steuern und Sozialabgaben, falls notwendig).
+4) <a id="p12-5"></a> Die Höhe der Aufwandsentschädigung für den FSR-Vorstand beträgt maximal 560 Euro.
+
+5) <a id="p12-4"></a>Angegebene Aufwandsentschädigungen verstehen sich grundsätzlich als Kostenbetrag für die Studierendenschaft vor etwaigen Abzügen (Steuern und Sozialabgaben, falls notwendig), pro Person.
 
 ### § 13 Reisekosten und Bewirtungen <a id="p13"></a>
 
