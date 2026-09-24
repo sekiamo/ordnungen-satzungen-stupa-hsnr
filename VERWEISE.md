@@ -2,7 +2,7 @@
 
 > **Automatisch erzeugt – bitte nicht bearbeiten.** Die Liste entsteht bei jedem Push aus `tools/check_verweise.py --write-liste`. Sie zeigt, wer auf welchen Paragraphen/Absatz verweist. Wird ein hier gelistetes Ziel geändert, schlägt die Prüfung Alarm (siehe TECHNIK.md, Abschnitt „Querverweise prüfen“).
 
-1 Verweise mit Link, 1 Verweise im Fließtext.
+1 Verweise mit Link, 2 Verweise im Fließtext.
 
 ## Verweise mit Link, nach Ziel
 
@@ -17,3 +17,4 @@ Diese Verweise sind nur Text („§ 5 Abs. 2“). Sie werden nur als Hinweis gep
 | Von | Verweis | Stelle |
 |---|---|---|
 | satzung-der-studierendenschaft (00-eingangsformel.md) | § 53 Absatz 4 | satzung/satzung-der-studierendenschaft/00-eingangsformel.md:1 |
+| satzung-der-studierendenschaft § 5 Abs. 2 | § 6 | satzung/satzung-der-studierendenschaft/p05-digitale-sitzungen.md:9 |

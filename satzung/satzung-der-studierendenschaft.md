@@ -64,9 +64,17 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p05-digitale-sitzungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p05-digitale-sitzungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p5-1"></a>Mit Ausnahme der Sitzung des Studierendenparlaments betreffend der Wahlen zum Allgemeinen Studierendenausschuss dürfen alle Gremien der Studierendenschaft ihre Sitzungen in elektronischer Kommunikation oder hybrid abhalten, sofern ihre jeweilige Geschäftsordnung dies nicht ausschließt.
+1) <a id="p5-1"></a>Alle Gremien der Studierendenschaft dürfen ihre Sitzungen in elektronischer Kommunikation oder hybrid abhalten, sofern ihre jeweilige Geschäftsordnung dies nicht ausschließt. Bei solchen Sitzungen sind vorgeschriebene Öffentlichkeit durch eine Übertragung sicherzustellen.
 
-2) <a id="p5-2"></a>Beschlüsse können, soweit nicht anders geregelt, auch in elektronischer Kommunikation oder im Umlaufverfahren (Textform) gefasst werden.
+2) <a id="p5-2"></a>Beschlüsse können, soweit nicht anders geregelt, auch in elektronischer Kommunikation oder im Umlaufverfahren (Textform) gefasst werden. Für das Umlaufverfahren gilt:
+    1. Umlaufbeschlüsse werden durch die Gremienleitung eingeleitet und durchgeführt. Die Frist beträgt 7 Tage ab Versand.
+    2. Der Beschluss gilt als angenommen, wenn nach Ablauf der Frist die Mehrheit der stimmberechtigten Mitglieder zugestimmt hat. Ist eine höhere Mehrheit vorgeschrieben, gilt diese.
+    3. Legen innerhalb der Frist mindestens 15 Prozent der stimmberechtigten Mitglieder in Textform bei der Leitung Einspruch ein, ist das Umlaufverfahren beendet. Der Antrag wird dann in einer Sitzung in Präsenz behandelt.
+    4. Die Leitung teilt das Ergebnis allen Mitgliedern unverzüglich mit. Auf der darauffolgenden Sitzung wird es bekannt gegeben; § 6 bleibt unberührt.
+
+4) <a id="p5-4"></a>Sitzungen des StuPa, in denen Mitglieder des AStA gewählt, bestätigt oder durch konstruktives Misstrauensvotum ersetzt werden, finden ausschließlich in Präsenz statt. Solche Entscheidungen sind im Umlaufverfahren ausgeschlossen.
+
+5) <a id="p5-5"></a>Satzung, Ordnungen und Haushaltsplan werden nicht im Umlaufverfahren beschlossen.
 
 ### § 6 Bekanntgabe von Beschlüssen  <a id="p6"></a>
 
