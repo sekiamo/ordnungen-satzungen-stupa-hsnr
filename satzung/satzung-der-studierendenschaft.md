@@ -55,9 +55,9 @@ Besondere Belange von Studierenden mit Behinderung, chronischer Erkrankung oder 
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p03-rechte-und-pflichten-der-mitglieder.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p03-rechte-und-pflichten-der-mitglieder.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p3-1"></a>Jedes Mitglied der Studierendenschaft hat nach Maßgabe dieser Satzung das aktive und passive Wahlrecht zum Studierendenparlament und seinem Fachschaftsrat.
+1) <a id="p3-1"></a>Jedes Mitglied der Studierendenschaft hat nach Maßgabe dieser Satzung das aktive und passive Wahlrecht zum Studierendenparlament und dem Fachschaftsrat der eigenen Fachschaft.
 
-2) <a id="p3-2"></a>Jedes Mitglied hat das Recht, mündliche und schriftliche Anfragen an die Gremien und Organe der Studierendenschaft zu richten. Diese sind nach bestem Wissen und Gewissen zu beantworten.
+2) <a id="p3-2"></a>Jedes Mitglied hat das Recht, mündliche und schriftliche Anfragen an die Gremien und Organe der Studierendenschaft zu richten. Diese sind nach bestem Wissen und Gewissen, innerhalb von 14 Kalendertagen zu beantworten, soweit keine vertraulichen, personenbezogenen und Personalangelegenheiten betroffen sind.
 
 3) <a id="p3-3"></a>Jedes Mitglied der Studierendenschaft hat die Pflicht zur Beitragszahlung nach Maßgabe der Beitragsordnung.
 
