@@ -14,4 +14,4 @@
 
 4) <a id="p16-4"></a>Die Stimmabgabe kann analog oder digital nach den Vorgaben der Wahlordnung stattfinden.
 
-5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 Prozent der Mitglieder der Studierendenschaft an ihr teilgenommen haben und die einfache Mehrheit der Abstimmenden zustimmt.
+5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 Prozent der Mitglieder der Studierendenschaft zustimmt.
