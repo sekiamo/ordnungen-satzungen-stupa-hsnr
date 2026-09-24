@@ -4,4 +4,4 @@
 
 2) <a id="p7-2"></a>Kassenanordnungen bedürfen stets der Feststellung der sachlichen und der rechnerischen Richtigkeit.
 
-3) <a id="p7-3"></a>Die Feststellung der sachlichen Richtigkeit obliegt dem Finanzreferat. Die Feststellung der rechnerischen Richtigkeit muss zwingend durch eine andere Person (zum Beispiel ein anderes AStA-Mitglied oder die Kassenverwaltung) erfolgen. Beide Personen unterzeichnen die Kassenanordnung.
+3) <a id="p7-3"></a>Die Feststellung der sachlichen Richtigkeit obliegt dem Finanzreferat. Die Feststellung der rechnerischen Richtigkeit muss zwingend durch eine anderes Mitglied des des AStA oder eine angestellte Person erfolgen, diese darf nicht eine Kassenverwaltung sein. Beide Personen unterzeichnen die Kassenanordnung.
