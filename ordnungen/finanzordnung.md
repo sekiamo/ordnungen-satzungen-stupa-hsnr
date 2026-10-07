@@ -173,6 +173,7 @@ Vom StuPa anerkannte studentische Initiativen und Hochschulgruppen können Proje
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p16-rechnungsergebnis.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p16-rechnungsergebnis.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 Innerhalb von 1 Monat nach Ende des Haushaltsjahres stellt die Kassenverwaltung gemeinsam mit dem Finanzreferat das Rechnungsergebnis (Jahresabschluss) auf. Es vergleicht die veranschlagten Ansätze mit den tatsächlichen Ist-Einnahmen und Ist-Ausgaben.
+Das Ergebnis wird unmittelbar an StuPa und insbesondere den Haushaltsausschuss übermittelt.
 
 ### § 17 Kassenprüfung <a id="p17"></a>
 
