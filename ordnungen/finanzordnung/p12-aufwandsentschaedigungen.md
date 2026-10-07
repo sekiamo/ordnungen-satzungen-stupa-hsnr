@@ -8,4 +8,6 @@
 
 4) <a id="p12-5"></a> Die Höhe der Aufwandsentschädigung für den FSR-Vorstand beträgt maximal 560 Euro.
 
-5) <a id="p12-4"></a>Angegebene Aufwandsentschädigungen verstehen sich grundsätzlich als Kostenbetrag für die Studierendenschaft vor etwaigen Abzügen (Steuern und Sozialabgaben, falls notwendig), pro Person.
+5) <a id="p12-6"></a> Die Höhe der Aufwandsentschädigung für das StuPa-Präsidium beträgt maximal 560 Euro.
+
+6) <a id="p12-4"></a>Angegebene Aufwandsentschädigungen verstehen sich grundsätzlich als Kostenbetrag für die Studierendenschaft vor etwaigen Abzügen (Steuern und Sozialabgaben, falls notwendig), pro Person.
