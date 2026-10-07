@@ -218,7 +218,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p14-referierende.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p14-referierende.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p14-1"></a>Das StuPa beschließt, welche Referate dem AStA angehören sollen.
+1) <a id="p14-1"></a>Das StuPa beschließt, welche Referate dem AStA angehören sollen und welche Aufgabenbereiche diese Erfüllen sollen.
 
 2) <a id="p14-2"></a>Referierende werden vom AStA-Vorstand vorgeschlagen und vom StuPa bestätigt. Sie können auf Antrag des AStA-Vorstands oder durch Beschluss des StuPa mit einfacher Mehrheit abberufen werden.
 
