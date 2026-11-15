@@ -1,4 +1,4 @@
-### § 11 Ausschüsse  <a id="p10a"></a>
+### § 13 Ausschüsse  <a id="p10a"></a>
 
 1) <a id="p10a-1"></a>Zur fachlichen Entlastung bildet das StuPa Ausschüsse. Als ständige Ausschüsse sind mindestens einzurichten:
 
@@ -17,3 +17,5 @@
 4) <a id="p10a-3"></a>Die Benennung hat bis zum Ende der 2. ordentlichen Sitzung der Wahlperiode zu erfolgen.
 
 5) <a id="p10a-4"></a>Ist ein Ausschusssitz nach Ablauf dieser Frist nicht benannt, kann das StuPa ihn ab der 2. ordentlichen Sitzung der Wahlperiode mit einfacher Mehrheit der anwesenden Mitglieder nach eigenem Ermessen besetzen. Das Benennungsrecht der betroffenen Fraktion erlischt damit für die laufende Wahlperiode.
+
+6) <a id="p10a-5"></a>Mitglieder des Haushaltsausschusses dürfen nach § 54 Absatz 2 HG nicht dem AStA angehören.

@@ -16,47 +16,49 @@
 - [§ 4 Organe der Studierendenschaft](p04-organe-der-studierendenschaft.md)
 - [§ 5 Digitale Sitzungen](p05-digitale-sitzungen.md)
 - [§ 6 Bekanntgabe von Beschlüssen](p06-bekanntgabe-von-beschluessen.md)
+- [§ 7 Ruhen von Mandat und Amt bei eingeschränkter Teilhabe](p06a-ruhen-von-mandat-und-amt-bei-eingeschraenkter-teilhabe.md)
+- [§ 8 Kooptation](p06b-kooptation.md)
 
 ## Teil 2 Das Studierendenparlament
 
-- [§ 7 Rechtsstellung und Aufgaben](p07-rechtsstellung-und-aufgaben.md)
-- [§ 8 Zusammensetzung und Wahl](p08-zusammensetzung-und-wahl.md)
-- [§ 9 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)](p09-unvereinbarkeit-von-amt-und-mandat-ruhen-des-mandats.md)
-- [§ 10 Das Präsidium](p10-das-praesidium.md)
-- [§ 11 Ausschüsse](p10a-ausschuesse.md)
+- [§ 9 Rechtsstellung und Aufgaben](p07-rechtsstellung-und-aufgaben.md)
+- [§ 10 Zusammensetzung und Wahl](p08-zusammensetzung-und-wahl.md)
+- [§ 11 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)](p09-unvereinbarkeit-von-amt-und-mandat-ruhen-des-mandats.md)
+- [§ 12 Das Präsidium](p10-das-praesidium.md)
+- [§ 13 Ausschüsse](p10a-ausschuesse.md)
 
 ## Teil 3 Allgemeiner Studierendenausschuss (AStA)
 
-- [§ 12 Rechtsstellung, Aufgaben und Beschlussfassung](p11-rechtsstellung-aufgaben-und-beschlussfassung.md)
-- [§ 13 Zusammensetzung](p12-zusammensetzung.md)
-- [§ 14 Der AStA-Vorstand](p13-der-asta-vorstand.md)
-- [§ 15 Referierende](p14-referierende.md)
-- [§ 16 Finanzreferat](p15-finanzreferat.md)
+- [§ 14 Rechtsstellung, Aufgaben und Beschlussfassung](p11-rechtsstellung-aufgaben-und-beschlussfassung.md)
+- [§ 15 Zusammensetzung](p12-zusammensetzung.md)
+- [§ 16 Der AStA-Vorstand](p13-der-asta-vorstand.md)
+- [§ 17 Referierende](p14-referierende.md)
+- [§ 18 Finanzreferat](p15-finanzreferat.md)
 
 ## Teil 4 Unmittelbare studentische Teilhabe
 
-- [§ 17 Urabstimmung](p16-urabstimmung.md)
-- [§ 18 Vollversammlung](p17-vollversammlung.md)
+- [§ 19 Urabstimmung](p16-urabstimmung.md)
+- [§ 20 Vollversammlung](p17-vollversammlung.md)
 
 ## Teil 5 Interessenvertretung und studentisches Engagement
 
-- [§ 19 Autonome Referate](p18-autonome-referate.md)
-- [§ 20 Studentische Hochschulgruppen und Initiativen](p19-studentische-hochschulgruppen-und-initiativen.md)
+- [§ 21 Autonome Referate](p18-autonome-referate.md)
+- [§ 22 Studentische Hochschulgruppen und Initiativen](p19-studentische-hochschulgruppen-und-initiativen.md)
 
 ## Teil 6 Fachschaften
 
-- [§ 21 Gliederung und Organe](p20-gliederung-und-organe.md)
+- [§ 23 Gliederung und Organe](p20-gliederung-und-organe.md)
 
 ## Teil 7 Rechtsprechung und Schlichtung
 
-- [§ 22 Schlichtungsrat](p21-schlichtungsrat.md)
+- [§ 24 Schlichtungsrat](p21-schlichtungsrat.md)
 
 ## Teil 8 Haushalts- und Kassenwesen
 
-- [§ 23 Finanzen und Beiträge](p22-finanzen-und-beitraege.md)
+- [§ 25 Finanzen und Beiträge](p22-finanzen-und-beitraege.md)
 
 ## Teil 9 Schlussbestimmungen
 
-- [§ 24 Ergänzende Ordnungen](p23-ergaenzende-ordnungen.md)
-- [§ 25 Satzungsänderung](p24-satzungsaenderung.md)
-- [§ 26 Inkrafttreten und Außerkrafttreten](p25-inkrafttreten-und-ausserkrafttreten.md)
+- [§ 26 Ergänzende Ordnungen](p23-ergaenzende-ordnungen.md)
+- [§ 27 Satzungsänderung](p24-satzungsaenderung.md)
+- [§ 28 Inkrafttreten und Außerkrafttreten](p25-inkrafttreten-und-ausserkrafttreten.md)

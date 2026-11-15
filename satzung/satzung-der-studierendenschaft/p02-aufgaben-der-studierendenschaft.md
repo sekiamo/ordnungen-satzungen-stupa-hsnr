@@ -1,6 +1,6 @@
 ### § 2 Aufgaben der Studierendenschaft  <a id="p2"></a>
 
-1) <a id="p2-1"></a>Die Studierendenschaft hat, gemäß §53 Absatz 2 HSG NRW, insbesondere folgende Aufgaben:
+1) <a id="p2-1"></a>Die Studierendenschaft hat, nach § 53 Absatz 2 HG, insbesondere folgende Aufgaben:
    1. die fachlichen, wirtschaftlichen und sozialen Belange ihrer Mitglieder in Hochschule und Gesellschaft wahrzunehmen und zu vertreten.;
 
    3. an der Erfüllung der Aufgaben der Hochschulen, insbesondere durch Stellungnahmen zu hochschul- oder wissenschaftspolitischen Fragen, mitzuwirken;

@@ -1,4 +1,4 @@
-### § 8 Zusammensetzung und Wahl  <a id="p8"></a>
+### § 10 Zusammensetzung und Wahl  <a id="p8"></a>
 
 1) <a id="p8-1"></a>Das Studierendenparlament besteht aus 21 stimmberechtigten Mitgliedern.
 
