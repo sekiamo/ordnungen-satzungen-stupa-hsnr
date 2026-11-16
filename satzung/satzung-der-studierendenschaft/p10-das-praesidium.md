@@ -1,4 +1,4 @@
-### § 13 Das Präsidium  <a id="p10"></a>
+### § 16 Das Präsidium  <a id="p10"></a>
 
 1) <a id="p10-1"></a>Das StuPa wählt auf seiner konstituierenden Sitzung aus seiner Mitte ein Präsidium, das die Sitzungen leitet.
 

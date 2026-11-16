@@ -1,4 +1,4 @@
-### § 23 Autonome Referate  <a id="p18"></a>
+### § 27 Autonome Referate  <a id="p18"></a>
 
 1) <a id="p18-1"></a>Zur Vertretung spezifischer, anerkannter oder potenziell benachteiligter Studierendengruppen können Autonome Referate gebildet werden, um bestehende Nachteile abzubauen.
 

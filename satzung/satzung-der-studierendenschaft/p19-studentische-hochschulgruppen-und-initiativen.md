@@ -1,4 +1,4 @@
-### § 24 Studentische Hochschulgruppen und Initiativen  <a id="p19"></a>
+### § 28 Studentische Hochschulgruppen und Initiativen  <a id="p19"></a>
 
 1) <a id="p19-1"></a>Die Studierendenschaft fördert ehrenamtliches Engagement in studentischen Initiativen und Hochschulgruppen, sofern diese zur politischen, fachlichen, sozialen oder kulturellen Willensbildung beitragen.
 

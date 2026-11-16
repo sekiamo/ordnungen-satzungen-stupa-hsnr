@@ -1,4 +1,4 @@
-### § 21 Urabstimmung  <a id="p16"></a>
+### § 25 Urabstimmung  <a id="p16"></a>
 
 1) <a id="p16-1"></a>Zu Angelegenheiten von grundsätzlicher Bedeutung kann eine allgemeine, unmittelbare, freie, gleiche und geheime Urabstimmung unter allen Mitgliedern der Studierendenschaft durchgeführt werden.
 

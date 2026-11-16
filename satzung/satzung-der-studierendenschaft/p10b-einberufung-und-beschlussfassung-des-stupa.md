@@ -1,4 +1,4 @@
-### § 15 Einberufung und Beschlussfassung des StuPa  <a id="p10b"></a>
+### § 18 Einberufung und Beschlussfassung des StuPa  <a id="p10b"></a>
 
 1) <a id="p10b-1"></a>Das Präsidium beruft das StuPa ein. Die Einladung wird spätestens 7 Tage vor der Sitzung in Textform an alle Mitglieder des StuPa versandt und hochschulöffentlich bekannt gemacht. Sie nennt Ort, Zeit und die vorläufige Tagesordnung.
 
@@ -17,3 +17,13 @@
 5) <a id="p10b-5"></a>Das StuPa stimmt offen ab, wenn diese Satzung oder die Geschäftsordnung nichts anderes bestimmt. Wahlen sind geheim.
 
 6) <a id="p10b-6"></a>Über jede Sitzung wird ein Protokoll geführt. Es enthält mindestens die Beschlüsse im Wortlaut und die Abstimmungsergebnisse. Das Nähere regelt die Geschäftsordnung des StuPa.
+
+7) <a id="p10b-7"></a>Zu folgenden Gegenständen sind Dringlichkeitsanträge ausgeschlossen:
+
+   1. Änderungen dieser Satzung,
+
+   2. Erlass und Änderung von Ordnungen,
+
+   3. Haushaltsplan und Nachtragshaushalt und
+
+   4. Abwahlen.
