@@ -11,3 +11,5 @@
 5) <a id="p12-6"></a> Die Höhe der Aufwandsentschädigung für das StuPa-Präsidium beträgt maximal 560 Euro.
 
 6) <a id="p12-4"></a>Angegebene Aufwandsentschädigungen verstehen sich grundsätzlich als Kostenbetrag für die Studierendenschaft vor etwaigen Abzügen (Steuern und Sozialabgaben, falls notwendig), pro Person.
+
+7) <a id="p12-7"></a>Ruht ein Amt nach der Satzung der Studierendenschaft wegen eingeschränkter Teilhabe, wird für die Dauer des Ruhens keine Aufwandsentschädigung gezahlt. Die Person, die das Amt in dieser Zeit vertritt, kann stattdessen die Aufwandsentschädigung erhalten. Beginnt oder endet das Ruhen im Laufe eines Monats, wird die Aufwandsentschädigung anteilig berechnet.
