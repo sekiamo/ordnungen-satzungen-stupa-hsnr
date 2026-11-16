@@ -1,4 +1,4 @@
-### § 11 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)  <a id="p9"></a>
+### § 12 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)  <a id="p9"></a>
 
 1) <a id="p9-1"></a>Mitglieder des AStA-Vorstands können keine stimmberechtigten Mitglieder des StuPa sein. Für die Dauer ihrer Amtszeit im AStA-Vorstand ruht ihr Mandat im Studierendenparlament.
 

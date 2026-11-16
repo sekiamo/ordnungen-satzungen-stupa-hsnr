@@ -1,8 +1,8 @@
-### § 10 Zusammensetzung und Wahl  <a id="p8"></a>
+### § 11 Zusammensetzung und Wahl  <a id="p8"></a>
 
 1) <a id="p8-1"></a>Das Studierendenparlament besteht aus 21 stimmberechtigten Mitgliedern.
 
-2) <a id="p8-2"></a>Es wird von den Mitgliedern der Studierendenschaft in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Die Amtszeit beträgt 1 Jahr.
+2) <a id="p8-2"></a>Es wird von den Mitgliedern der Studierendenschaft in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Die Amtszeit beträgt 1 Jahr. Das StuPa bleibt im Amt, bis das neu gewählte StuPa zu seiner konstituierenden Sitzung zusammentritt.
 
 3) <a id="p8-3"></a>Als beratende Mitglieder gehören dem Studierendenparlament an:
 

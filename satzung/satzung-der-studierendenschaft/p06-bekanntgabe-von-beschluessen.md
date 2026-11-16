@@ -1,4 +1,4 @@
-### § 6 Bekanntgabe von Beschlüssen  <a id="p6"></a>
+### § 7 Bekanntgabe von Beschlüssen  <a id="p6"></a>
 
 1) <a id="p6-1"></a>Satzungen und Ordnungen der Studierendenschaft bedürfen zu ihrer Rechtswirksamkeit der amtlichen Bekanntmachung in den Amtlichen Bekanntmachungen der Hochschule Niederrhein.
 
