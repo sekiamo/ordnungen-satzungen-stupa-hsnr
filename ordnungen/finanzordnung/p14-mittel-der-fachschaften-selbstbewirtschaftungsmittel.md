@@ -8,6 +8,6 @@
 
 4) <a id="p14-4"></a>Den Fachschaften werden diese Gelder als Selbstbewirtschaftungsmittel zur eigenverantwortlichen Erfüllung ihrer Aufgaben zugewiesen.
 
-5) <a id="p14-5"></a>Jede Fachschaft wählt eine finanzverantwortliche Person. Diese Person führt über die Ein- und Auszahlungen der Fachschaft genau Buch (Kassenbuch) und belegt alle Buchungen.
+5) <a id="p14-5"></a>Jede Fachschaft hat ein Finanzreferat der Fachschaft nach der Fachschaftsrahmenordnung. Dieses führt über die Ein- und Auszahlungen der Fachschaft genau Buch (Kassenbuch) und belegt alle Buchungen.
 
-6) <a id="p14-6"></a>Nach Abschluss des Haushaltsjahres reicht jede Fachschaft dem Haushaltsausschuss einen eigenen Rechnenschaftsbericht zur Prüfung ein.
+6) <a id="p14-6"></a>Nach Abschluss des Haushaltsjahres reicht jede Fachschaft dem Haushaltsausschuss einen eigenen Rechenschaftsbericht zur Prüfung ein.
