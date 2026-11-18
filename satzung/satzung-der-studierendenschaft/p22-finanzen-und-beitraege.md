@@ -1,4 +1,4 @@
-### § 23 Finanzen und Beiträge  <a id="p22"></a>
+### § 25 Finanzen und Beiträge  <a id="p22"></a>
 
 1) <a id="p22-1"></a>Die Studierendenschaft hat ein eigenes Vermögen und erhebt von ihren Mitgliedern Beiträge (Semesterbeitrag), die über eine Beitragsordnung festgelegt werden.
 
@@ -7,3 +7,5 @@
 3) <a id="p22-3"></a>Das Haushaltsjahr beginnt am 1. September jeden Jahres.
 
 4) <a id="p22-4"></a>Das StuPa beschließt jährlich einen Haushaltsplan, der durch den AStA ausgeführt wird.
+
+5) <a id="p22-5"></a>Über die Entlastung des AStA-Vorstands und des Finanzreferats beschließt das StuPa mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder. Das Nähere regelt die Finanzordnung.

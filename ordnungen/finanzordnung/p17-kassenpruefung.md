@@ -4,4 +4,4 @@
 
 2) <a id="p17-2"></a>Die Kassenprüfung hat mindestens einmal jährlich unvermutet stattzufinden.
 
-3) <a id="p17-3"></a>Nach Aufstellung des Jahresabschlusses führen die Kassenprüfenden und die Jahresabschlussprüfung durch. Sie erstellen einen schriftlichen Prüfbericht.
+3) <a id="p17-3"></a>Nach Aufstellung des Jahresabschlusses führen die Kassenprüfenden die Jahresabschlussprüfung durch. Sie erstellen einen schriftlichen Prüfbericht.

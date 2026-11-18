@@ -12,7 +12,7 @@
 
     2. die stellvertretende Leitung und
 
-    3. die Finanzreferentin oder den Finanzreferenten (Kassenwartin oder Kassenwart).
+    3. das Finanzreferat der Fachschaft.
 
 5) <a id="p5-5"></a>Der FSR bestimmt eine Person, die als Delegierte an Sitzungen des Studierendenparlaments in Form eines beratenden Mitglieds teilnimmt.
 

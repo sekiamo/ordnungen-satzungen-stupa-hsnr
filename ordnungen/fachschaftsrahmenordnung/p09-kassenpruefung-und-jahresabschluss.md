@@ -1,6 +1,6 @@
 ### § 9 Kassenprüfung und Jahresabschluss <a id="p9"></a>
 
-1) <a id="p9-1"></a>Am Ende des Haushaltsjahres erstellt die Fachschaft einen Jahresabschluss und legt diesen dem Studierendenparlament vor.
+1) <a id="p9-1"></a>Am Ende des Haushaltsjahres erstellt die Fachschaft einen Jahresabschluss und legt diesen dem Haushaltsausschuss des Studierendenparlaments vor.
 
 2) <a id="p9-2"></a>Der Jahresabschluss wird in Form eines Rechenschaftsberichts in der FSVV bekannt gegeben. Sollte dies nicht möglich sein, wird der Rechenschaftsbericht über die gängigen Informationskanäle der Fachschaft veröffentlicht.
 

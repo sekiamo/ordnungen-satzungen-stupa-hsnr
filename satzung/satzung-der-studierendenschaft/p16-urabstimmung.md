@@ -1,4 +1,4 @@
-### § 17 Urabstimmung  <a id="p16"></a>
+### § 19 Urabstimmung  <a id="p16"></a>
 
 1) <a id="p16-1"></a>Zu Angelegenheiten von grundsätzlicher Bedeutung kann eine allgemeine, unmittelbare, freie, gleiche und geheime Urabstimmung unter allen Mitgliedern der Studierendenschaft durchgeführt werden.
 
@@ -14,4 +14,4 @@
 
 4) <a id="p16-4"></a>Die Stimmabgabe kann analog oder digital nach den Vorgaben der Wahlordnung stattfinden.
 
-5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 Prozent der Mitglieder der Studierendenschaft zustimmt.
+5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 Prozent der Mitglieder der Studierendenschaft zustimmen.
