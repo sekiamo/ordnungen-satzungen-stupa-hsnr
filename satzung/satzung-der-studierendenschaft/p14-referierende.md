@@ -1,4 +1,4 @@
-### § 17 Referierende  <a id="p14"></a>
+### § 19 Referierende  <a id="p14"></a>
 
 1) <a id="p14-1"></a>Das StuPa beschließt, welche Referate dem AStA angehören sollen und welche Aufgabenbereiche diese erfüllen sollen.
 

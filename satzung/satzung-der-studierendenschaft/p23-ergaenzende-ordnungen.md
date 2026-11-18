@@ -1,4 +1,4 @@
-### § 26 Ergänzende Ordnungen  <a id="p23"></a>
+### § 28 Ergänzende Ordnungen  <a id="p23"></a>
 
 1) <a id="p23-1"></a>Zur Durchführung dieser Satzung erlässt das StuPa zwingend folgende Ordnungen:
 
