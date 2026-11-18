@@ -10,4 +10,4 @@
 
 5) <a id="p5-5"></a>Der Haushaltsausschuss legt dem StuPa spätestens 3 Wochen nach Vorlage des Entwurfs eine Stellungnahme vor. Kommt der Haushaltsausschuss seiner Verpflichtung nicht innerhalb der Frist nach, kann das StuPa mit einer Zweidrittelmehrheit der anwesenden Mitglieder beschließen, auf die Stellungnahme zu verzichten.
 
-6) <a id="p5-6"></a>Der beschlossene Haushaltsplan ist dem Präsidium der Hochschule Niederrhein innerhalb von 2 Wochen nach dem Beschluss vorzulegen. Er wird frühestens 2 Wochen nach der Vorlage hochschulöffentlich bekannt gemacht.
+6) <a id="p5-6"></a>Der beschlossene Haushaltsplan ist dem Präsidium der Hochschule Niederrhein innerhalb von 2 Wochen nach dem Beschluss vorzulegen. Er wird 2 Wochen nach der Vorlage hochschulöffentlich bekannt gemacht.
