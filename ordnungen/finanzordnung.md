@@ -56,7 +56,7 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 5) <a id="p5-5"></a>Der Haushaltsausschuss legt dem StuPa spätestens 3 Wochen nach Vorlage des Entwurfs eine Stellungnahme vor. Kommt der Haushaltsausschuss seiner Verpflichtung nicht innerhalb der Frist nach, kann das StuPa mit einer Zweidrittelmehrheit der anwesenden Mitglieder beschließen, auf die Stellungnahme zu verzichten.
 
-6) <a id="p5-6"></a>Der beschlossene Haushaltsplan ist unverzüglich dem Präsidium der Hochschule Niederrhein vorzulegen und hochschulöffentlich bekannt zu machen.
+6) <a id="p5-6"></a>Der beschlossene Haushaltsplan ist dem Präsidium der Hochschule Niederrhein innerhalb von 2 Wochen nach dem Beschluss vorzulegen. Er wird 2 Wochen nach der Vorlage hochschulöffentlich bekannt gemacht.
 
 ## Teil 3 Ausführung des Haushaltsplans
 
@@ -76,7 +76,7 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 2) <a id="p7-2"></a>Kassenanordnungen bedürfen stets der Feststellung der sachlichen und der rechnerischen Richtigkeit.
 
-3) <a id="p7-3"></a>Die Feststellung der sachlichen Richtigkeit obliegt dem Finanzreferat. Die Feststellung der rechnerischen Richtigkeit muss zwingend durch eine anderes Mitglied des des AStA oder eine angestellte Person erfolgen, diese darf nicht eine Kassenverwaltung sein. Beide Personen unterzeichnen die Kassenanordnung.
+3) <a id="p7-3"></a>Die Feststellung der sachlichen Richtigkeit obliegt dem Finanzreferat. Die Feststellung der rechnerischen Richtigkeit muss zwingend durch ein anderes Mitglied des AStA oder eine angestellte Person erfolgen, diese darf nicht eine Kassenverwaltung sein. Beide Personen unterzeichnen die Kassenanordnung.
 
 ### § 8 Zustimmungsvorbehalte des Studierendenparlaments <a id="p8"></a>
 
@@ -134,6 +134,8 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 6) <a id="p12-4"></a>Angegebene Aufwandsentschädigungen verstehen sich grundsätzlich als Kostenbetrag für die Studierendenschaft vor etwaigen Abzügen (Steuern und Sozialabgaben, falls notwendig), pro Person.
 
+7) <a id="p12-7"></a>Ruht ein Amt nach der Satzung der Studierendenschaft wegen eingeschränkter Teilhabe, wird für die Dauer des Ruhens keine Aufwandsentschädigung gezahlt. Die Person, die das Amt in dieser Zeit vertritt, kann stattdessen die Aufwandsentschädigung erhalten. Beginnt oder endet das Ruhen im Laufe eines Monats, wird die Aufwandsentschädigung anteilig berechnet.
+
 ### § 13 Reisekosten und Bewirtungen <a id="p13"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/finanzordnung/p13-reisekosten-und-bewirtungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/finanzordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p13-reisekosten-und-bewirtungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
@@ -156,9 +158,9 @@ Das Haushaltsjahr der Studierendenschaft richtet sich nach dem Studienjahr (vom 
 
 4) <a id="p14-4"></a>Den Fachschaften werden diese Gelder als Selbstbewirtschaftungsmittel zur eigenverantwortlichen Erfüllung ihrer Aufgaben zugewiesen.
 
-5) <a id="p14-5"></a>Jede Fachschaft wählt eine finanzverantwortliche Person. Diese Person führt über die Ein- und Auszahlungen der Fachschaft genau Buch (Kassenbuch) und belegt alle Buchungen.
+5) <a id="p14-5"></a>Jede Fachschaft hat ein Finanzreferat der Fachschaft nach der Fachschaftsrahmenordnung. Dieses führt über die Ein- und Auszahlungen der Fachschaft genau Buch (Kassenbuch) und belegt alle Buchungen.
 
-6) <a id="p14-6"></a>Nach Abschluss des Haushaltsjahres reicht jede Fachschaft dem Haushaltsausschuss einen eigenen Rechnenschaftsbericht zur Prüfung ein.
+6) <a id="p14-6"></a>Nach Abschluss des Haushaltsjahres reicht jede Fachschaft dem Haushaltsausschuss einen eigenen Rechenschaftsbericht zur Prüfung ein.
 
 ### § 15 Förderung studentischer Initiativen <a id="p15"></a>
 
@@ -183,7 +185,7 @@ Das Ergebnis wird unmittelbar an StuPa und insbesondere den Haushaltsausschuss �
 
 2) <a id="p17-2"></a>Die Kassenprüfung hat mindestens einmal jährlich unvermutet stattzufinden.
 
-3) <a id="p17-3"></a>Nach Aufstellung des Jahresabschlusses führen die Kassenprüfenden und die Jahresabschlussprüfung durch. Sie erstellen einen schriftlichen Prüfbericht.
+3) <a id="p17-3"></a>Nach Aufstellung des Jahresabschlusses führen die Kassenprüfenden die Jahresabschlussprüfung durch. Sie erstellen einen schriftlichen Prüfbericht.
 
 ### § 18 Entlastung des AStA <a id="p18"></a>
 
@@ -191,9 +193,13 @@ Das Ergebnis wird unmittelbar an StuPa und insbesondere den Haushaltsausschuss �
 
 1) <a id="p18-1"></a>Das Rechnungsergebnis und der Bericht der Kassenprüfung werden dem Haushaltsausschuss des StuPa mindestens 1 Monat vor der Entlastungsbeschlussfassung zur Stellungnahme vorgelegt und mindestens 2 Wochen vor dieser Beschlussfassung hochschulöffentlich bekanntgemacht.
 
-2) <a id="p18-2"></a>Das StuPa entscheidet auf Basis des Rechnungsergebnis, des Haushaltsplan inklusive aller Nachträge und des Berichts der Kassenprüfung über die formelle Entlastung des AStA-Vorstands und des Finanzreferats für das abgelaufene Haushaltsjahr.
+2) <a id="p18-2"></a>Das StuPa entscheidet auf Basis des Rechnungsergebnisses, des Haushaltsplans inklusive aller Nachträge und des Berichts der Kassenprüfung über die formelle Entlastung des AStA-Vorstands und des Finanzreferats für das abgelaufene Haushaltsjahr. Der Beschluss über die Entlastung bedarf der absoluten Mehrheit der stimmberechtigten Mitglieder des StuPa.
 
-3) <a id="p18-3"></a>Die Haushalts- und Wirtschaftsführung der Studierendenschaft unterliegt zusätzlich der Prüfung durch den Landesrechnungshof NRW.
+3) <a id="p18-4"></a>Das StuPa stimmt über die Entlastung jedes Mitglieds des AStA-Vorstands und der Leitung des Finanzreferats einzeln ab. Wer entlastet werden soll, ist bei dieser Abstimmung nicht stimmberechtigt.
+
+4) <a id="p18-5"></a>Wird die Entlastung nicht erteilt, werden die beanstandeten Punkte im Protokoll festgehalten. Der Haushaltsausschuss und die Kassenprüfenden prüfen diese Punkte und berichten dem StuPa innerhalb von 6 Wochen. Danach entscheidet das StuPa erneut über die Entlastung.
+
+5) <a id="p18-3"></a>Die Haushalts- und Wirtschaftsführung der Studierendenschaft unterliegt zusätzlich der Prüfung durch den Landesrechnungshof NRW.
 
 ## Teil 8 Schlussbestimmungen
 

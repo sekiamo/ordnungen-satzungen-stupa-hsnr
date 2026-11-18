@@ -68,7 +68,7 @@
 
     2. die stellvertretende Leitung und
 
-    3. die Finanzreferentin oder den Finanzreferenten (Kassenwartin oder Kassenwart).
+    3. das Finanzreferat der Fachschaft.
 
 5) <a id="p5-5"></a>Der FSR bestimmt eine Person, die als Delegierte an Sitzungen des Studierendenparlaments in Form eines beratenden Mitglieds teilnimmt.
 
@@ -112,13 +112,13 @@
 
 2) <a id="p8-2"></a>Auszahlungen der Fachschaftsgelder durch den AStA an die Fachschaft als Selbstbewirtschaftungsmittel setzen voraus, dass das Finanzreferat der Fachschaft eine Erklärung an den AStA übermittelt, in welcher bestätigt wird, dass die verantwortlichen Personen sich mit der HWVO NRW beschäftigt haben und sich der Aufgaben aus [§ 8 Absatz 1](#p8-1) dieser Ordnung bewusst sind.
 
-3) <a id="p8-3"></a>Jede Kassenanordnung der Fachschaft muss von mindestens 2 berechtigten Personen des FSR (meist die Finanzreferentin oder der Finanzreferent und der Vorsitz) unterzeichnet werden (Vier-Augen-Prinzip).
+3) <a id="p8-3"></a>Jede Kassenanordnung der Fachschaft muss von mindestens 2 berechtigten Personen des FSR (meist das Finanzreferat der Fachschaft und der Vorsitz) unterzeichnet werden (Vier-Augen-Prinzip).
 
 ### § 9 Kassenprüfung und Jahresabschluss <a id="p9"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/ordnungen/fachschaftsrahmenordnung/p09-kassenpruefung-und-jahresabschluss.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/ordnungen/fachschaftsrahmenordnung?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p09-kassenpruefung-und-jahresabschluss.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
-1) <a id="p9-1"></a>Am Ende des Haushaltsjahres erstellt die Fachschaft einen Jahresabschluss und legt diesen dem Studierendenparlament vor.
+1) <a id="p9-1"></a>Am Ende des Haushaltsjahres erstellt die Fachschaft einen Jahresabschluss und legt diesen dem Haushaltsausschuss des Studierendenparlaments vor.
 
 2) <a id="p9-2"></a>Der Jahresabschluss wird in Form eines Rechenschaftsberichts in der FSVV bekannt gegeben. Sollte dies nicht möglich sein, wird der Rechenschaftsbericht über die gängigen Informationskanäle der Fachschaft veröffentlicht.
 
