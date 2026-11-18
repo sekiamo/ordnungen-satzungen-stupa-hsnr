@@ -6,7 +6,7 @@
 
    1. mindestens einem Fünftel der stimmberechtigten Mitglieder des StuPa,
 
-   2. dem AStA-Vorstand oder
+   2. dem AStA oder
 
    3. mehr als 3 Fachschaftsräten.
 
