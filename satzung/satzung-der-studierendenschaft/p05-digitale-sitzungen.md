@@ -11,3 +11,5 @@
 3) <a id="p5-4"></a>Sitzungen des StuPa, in denen Mitglieder des AStA gewählt, bestätigt oder durch konstruktives Misstrauensvotum ersetzt werden, finden ausschließlich in Präsenz statt. Solche Entscheidungen sind im Umlaufverfahren ausgeschlossen.
 
 4) <a id="p5-5"></a>Satzung, Ordnungen und Haushaltsplan werden nicht im Umlaufverfahren beschlossen.
+
+5) <a id="p5-6"></a>Mitglieder, bei denen ein Grund nach [§ 8 Absatz 1](p06a-ruhen-von-mandat-und-amt-bei-eingeschraenkter-teilhabe.md#p6a-1) vorliegt, können verlangen, an Sitzungen ihres Gremiums in elektronischer Kommunikation teilzunehmen. Das Verlangen ist der Leitung des Gremiums spätestens 2 Tage vor der Sitzung in Textform mitzuteilen. Angaben zur Art der Einschränkung und Nachweise werden nicht verlangt. Die Leitung stellt sicher, dass zugeschaltete Mitglieder an Beratung und Abstimmung teilnehmen können. Absatz 3 bleibt unberührt.

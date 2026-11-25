@@ -1,4 +1,4 @@
-### § 18 Der AStA-Vorstand  <a id="p13"></a>
+### § 22 Der AStA-Vorstand  <a id="p13"></a>
 
 1) <a id="p13-1"></a>Der AStA-Vorstand wird vom StuPa mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder gewählt. Eine vorzeitige Abwahl von Vorstandsmitgliedern ist nur durch die gleichzeitige Wahl einer Nachfolge (konstruktives Misstrauensvotum) mit der zweidrittel Mehrheit der stimmberechtigten Mitglieder des StuPa möglich.
 

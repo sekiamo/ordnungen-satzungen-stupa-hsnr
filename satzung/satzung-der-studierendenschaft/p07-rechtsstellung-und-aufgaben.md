@@ -1,4 +1,4 @@
-### § 10 Rechtsstellung und Aufgaben  <a id="p7"></a>
+### § 12 Rechtsstellung und Aufgaben  <a id="p7"></a>
 
 1) <a id="p7-1"></a>Das StuPa ist das oberste beschlussfassende Organ der Studierendenschaft. Es bringt den Willen der Studierendenschaft zum Ausdruck.
 

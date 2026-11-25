@@ -1,4 +1,4 @@
-### § 14 Ausschüsse  <a id="p10a"></a>
+### § 17 Ausschüsse  <a id="p10a"></a>
 
 1) <a id="p10a-1"></a>Zur fachlichen Entlastung bildet das StuPa Ausschüsse. Als ständige Ausschüsse sind mindestens einzurichten:
 
