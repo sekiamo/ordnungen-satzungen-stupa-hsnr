@@ -109,6 +109,8 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 4) <a id="p5-5"></a>Satzung, Ordnungen und Haushaltsplan werden nicht im Umlaufverfahren beschlossen.
 
+5) <a id="p5-6"></a>Mitglieder, bei denen ein Grund nach [§ 8 Absatz 1](#p6a-1) vorliegt, können verlangen, an Sitzungen ihres Gremiums in elektronischer Kommunikation teilzunehmen. Das Verlangen ist der Leitung des Gremiums spätestens 2 Tage vor der Sitzung in Textform mitzuteilen. Angaben zur Art der Einschränkung und Nachweise werden nicht verlangt. Die Leitung stellt sicher, dass zugeschaltete Mitglieder an Beratung und Abstimmung teilnehmen können. Absatz 3 bleibt unberührt.
+
 ### § 7 Bekanntgabe von Beschlüssen  <a id="p6"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p06-bekanntgabe-von-beschluessen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p06-bekanntgabe-von-beschluessen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
@@ -139,9 +141,9 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 4) <a id="p6a-7"></a>Die Leitung des Gremiums stellt Beginn und Ende des Ruhens fest und gibt beides dem Gremium bekannt. Der Grund des Ruhens wird dabei nicht genannt.
 
-5) <a id="p6a-4"></a>Jedes Mandat oder Amt kann nach Absatz 1 nur einmal je Wahlperiode ruhen. Das Ruhen des Mandats wegen der Unvereinbarkeit von Amt und Mandat nach [§ 12 Absatz 1](#p9-1) wird dabei nicht mitgezählt.
+5) <a id="p6a-4"></a>Jedes Mandat oder Amt kann nach Absatz 1 nur einmal je Wahlperiode ruhen. Das Ruhen des Mandats wegen der Unvereinbarkeit von Amt und Mandat nach [§ 14 Absatz 1](#p9-1) wird dabei nicht mitgezählt.
 
-6) <a id="p6a-5"></a>Solange ein Mandat oder Amt ruht, übt das Mitglied es nicht aus. Für ein ruhendes Mandat gilt [§ 12 Absatz 2](#p9-2) über Stimmrecht, Nachrücken und Rückkehr entsprechend. Die Aufgaben eines ruhenden Amtes nimmt die Stellvertretung wahr. Gibt es keine Stellvertretung, kann das Gremium, das das Amt besetzt hat, für die Dauer des Ruhens eine Vertretung wählen.
+6) <a id="p6a-5"></a>Solange ein Mandat oder Amt ruht, übt das Mitglied es nicht aus. Für ein ruhendes Mandat gilt [§ 14 Absatz 2](#p9-2) über Stimmrecht, Nachrücken und Rückkehr entsprechend. Die Aufgaben eines ruhenden Amtes nimmt die Stellvertretung wahr. Gibt es keine Stellvertretung, kann das Gremium, das das Amt besetzt hat, für die Dauer des Ruhens eine Vertretung wählen.
 
 7) <a id="p6a-6"></a>Das Ruhen gilt nicht als Ausscheiden aus dem Gremium.
 
@@ -151,7 +153,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 1) <a id="p6b-1"></a>Scheidet ein Mitglied eines Gremiums der Studierendenschaft vor Ablauf der Wahlzeit aus, ohne dass jemand aufgrund einer Stellvertretungsregelung nachrückt, können die verbleibenden Mitglieder des Gremiums nach § 53 Absatz 5 HG ein Mitglied der Studierendenschaft wählen, das an die Stelle des ausgeschiedenen Mitglieds tritt (Kooptation). Stellvertretungsregelung ist insbesondere das Nachrücken über die Wahlliste.
 
-2) <a id="p6b-2"></a>Absatz 1 gilt für alle Gremien der Studierendenschaft, insbesondere für das StuPa, die Ausschüsse des StuPa und die Fachschaftsräte. Bei Ausschüssen des StuPa geht das Benennungsrecht der Fraktionen nach [§ 14 Absatz 3](#p10a-2) der Kooptation vor.
+2) <a id="p6b-2"></a>Absatz 1 gilt für alle Gremien der Studierendenschaft, insbesondere für das StuPa, die Ausschüsse des StuPa und die Fachschaftsräte. Bei Ausschüssen des StuPa geht das Benennungsrecht der Fraktionen nach [§ 17 Absatz 3](#p10a-2) der Kooptation vor.
 
 3) <a id="p6b-3"></a>Die Kooptation findet in einer Sitzung des Gremiums statt und muss in der Einladung als Tagesordnungspunkt angekündigt sein. Kooptiert werden kann nur, wer für das Gremium wählbar ist. Gewählt ist, wer die Stimmen der Mehrheit der verbleibenden stimmberechtigten Mitglieder erhält.
 
@@ -163,9 +165,31 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 7) <a id="p6b-7"></a>Eine Kooptation in den AStA-Vorstand oder in die Leitung des Finanzreferats wird erst wirksam, wenn das StuPa sie mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder bestätigt.
 
+### § 10 Barrierefreiheit der Sitzungen  <a id="p6c"></a>
+
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p06c-barrierefreiheit-der-sitzungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p06c-barrierefreiheit-der-sitzungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+
+<a id="p6c-1"></a>Jede Einladung zu einer Sitzung eines Gremiums der Studierendenschaft nennt den barrierefreien Zugang zum Sitzungsort. Ist der Sitzungsort nicht barrierefrei zugänglich, weist die Einladung darauf und auf die Möglichkeit der digitalen Teilnahme nach [§ 6 Absatz 5](#p5-6) hin.
+
+### § 11 Amtsübergabe  <a id="p6d"></a>
+
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p06d-amtsuebergabe.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p06d-amtsuebergabe.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+
+1) <a id="p6d-1"></a>Wer ein Amt in einem Gremium der Studierendenschaft innehat, übergibt es am Ende der Amtszeit in Textform an die Nachfolge.
+
+2) <a id="p6d-2"></a>Die Übergabe enthält mindestens
+
+   1. den Stand der laufenden Vorgänge,
+
+   2. Fristen und offene Verpflichtungen und
+
+   3. eine Liste der Zugänge, Schlüssel und Unterlagen, die übergeben werden.
+
+3) <a id="p6d-3"></a>Die Übergabe findet innerhalb von 4 Wochen nach der Wahl der Nachfolge statt. Gibt es noch keine Nachfolge, wird die Übergabe bei der Leitung des Gremiums hinterlegt.
+
 ## Teil 2 Das Studierendenparlament
 
-### § 10 Rechtsstellung und Aufgaben  <a id="p7"></a>
+### § 12 Rechtsstellung und Aufgaben  <a id="p7"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p07-rechtsstellung-und-aufgaben.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p07-rechtsstellung-und-aufgaben.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -181,7 +205,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 3) <a id="p7-3"></a>Das StuPa gibt sich eine Geschäftsordnung. Sitzungen des StuPa sind grundsätzlich hochschulöffentlich.
 
-### § 11 Zusammensetzung und Wahl  <a id="p8"></a>
+### § 13 Zusammensetzung und Wahl  <a id="p8"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p08-zusammensetzung-und-wahl.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p08-zusammensetzung-und-wahl.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -211,7 +235,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 8) <a id="p8-8"></a>Die Abrechnung ist spätestens 14 Tage nach der Ergebnisverkündung beim AStA einzureichen.
 
-### § 12 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)  <a id="p9"></a>
+### § 14 Unvereinbarkeit von Amt und Mandat (Ruhen des Mandats)  <a id="p9"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p09-unvereinbarkeit-von-amt-und-mandat-ruhen-des-mandats.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p09-unvereinbarkeit-von-amt-und-mandat-ruhen-des-mandats.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -220,7 +244,19 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 2) <a id="p9-2"></a>Ruht das Mandat einer Person, verliert diese für den entsprechenden Zeitraum ihr Stimmrecht. Für die Dauer des Ruhens rückt die nächste Person der entsprechenden Wahlliste nach. Fällt der Grund für das Ruhen weg, kehrt die ursprüngliche Person als stimmberechtigtes Mitglied zurück; die nachgerückte Person scheidet aus.
    
 
-### § 13 Das Präsidium  <a id="p10"></a>
+### § 15 Vertretung in einzelnen Sitzungen  <a id="p9a"></a>
+
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p09a-vertretung-in-einzelnen-sitzungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p09a-vertretung-in-einzelnen-sitzungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+
+1) <a id="p9a-1"></a>Ist ein stimmberechtigtes Mitglied des StuPa an der Teilnahme an einer Sitzung verhindert, kann es sich für diese Sitzung vertreten lassen. Es vertritt die nächste Person der Wahlliste, über die das Mitglied gewählt wurde, die noch kein Mandat hat und an der Sitzung teilnehmen kann.
+
+2) <a id="p9a-2"></a>Das Mitglied teilt die Verhinderung dem Präsidium vor Beginn der Sitzung in Textform mit.
+
+3) <a id="p9a-3"></a>Die vertretende Person hat in der Sitzung die Rechte eines stimmberechtigten Mitglieds. Sie ist an Weisungen nicht gebunden. Sie kann nicht in Ämter gewählt werden, die stimmberechtigten Mitgliedern des StuPa vorbehalten sind.
+
+4) <a id="p9a-4"></a>Eine Person kann in einer Sitzung nur ein Mitglied vertreten. Steht keine Person der Wahlliste zur Verfügung, bleibt der Sitz in dieser Sitzung unbesetzt.
+
+### § 16 Das Präsidium  <a id="p10"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p10-das-praesidium.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p10-das-praesidium.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -234,7 +270,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 5) <a id="p10-5"></a>Das Präsidium bleibt nach Ablauf der Wahlperiode geschäftsführend im Amt, bis das neu gewählte StuPa ein Präsidium gewählt hat.
 
-### § 14 Ausschüsse  <a id="p10a"></a>
+### § 17 Ausschüsse  <a id="p10a"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p10a-ausschuesse.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p10a-ausschuesse.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -258,7 +294,7 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 6) <a id="p10a-5"></a>Mitglieder des Haushaltsausschusses dürfen nach § 54 Absatz 2 HG nicht dem AStA angehören.
 
-### § 15 Einberufung und Beschlussfassung des StuPa  <a id="p10b"></a>
+### § 18 Einberufung und Beschlussfassung des StuPa  <a id="p10b"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p10b-einberufung-und-beschlussfassung-des-stupa.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p10b-einberufung-und-beschlussfassung-des-stupa.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -280,9 +316,31 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 6) <a id="p10b-6"></a>Über jede Sitzung wird ein Protokoll geführt. Es enthält mindestens die Beschlüsse im Wortlaut und die Abstimmungsergebnisse. Das Nähere regelt die Geschäftsordnung des StuPa.
 
+7) <a id="p10b-7"></a>Zu folgenden Gegenständen sind Dringlichkeitsanträge ausgeschlossen:
+
+   1. Änderungen dieser Satzung,
+
+   2. Erlass und Änderung von Ordnungen,
+
+   3. Haushaltsplan und Nachtragshaushalt und
+
+   4. Abwahlen.
+
+### § 19 Rechte der Minderheit im StuPa  <a id="p10c"></a>
+
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p10c-rechte-der-minderheit-im-stupa.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p10c-rechte-der-minderheit-im-stupa.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+
+1) <a id="p10c-1"></a>Mindestens ein Fünftel der stimmberechtigten Mitglieder des StuPa kann verlangen, dass Mitglieder des AStA zu einer Sitzung des StuPa erscheinen und zu einem benannten Thema Auskunft geben. Das Verlangen ist dem Präsidium spätestens 3 Tage vor der Sitzung in Textform mitzuteilen.
+
+2) <a id="p10c-2"></a>Verlangt mindestens ein Fünftel der stimmberechtigten Mitglieder des StuPa einen Untersuchungsausschuss, muss das StuPa ihn einsetzen. Das Verlangen bezeichnet den Gegenstand der Untersuchung. Für die Besetzung gilt [§ 17 Absatz 3](#p10a-2) über die Benennung durch die Fraktionen.
+
+3) <a id="p10c-3"></a>Der AStA und die übrigen Gremien der Studierendenschaft erteilen dem Untersuchungsausschuss die verlangten Auskünfte und gewähren Einsicht in ihre Unterlagen. Der Schutz personenbezogener Daten bleibt gewahrt.
+
+4) <a id="p10c-4"></a>Der Untersuchungsausschuss berichtet dem StuPa in Textform.
+
 ## Teil 3 Allgemeiner Studierendenausschuss (AStA)
 
-### § 16 Rechtsstellung, Aufgaben und Beschlussfassung  <a id="p11"></a>
+### § 20 Rechtsstellung, Aufgaben und Beschlussfassung  <a id="p11"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p11-rechtsstellung-aufgaben-und-beschlussfassung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p11-rechtsstellung-aufgaben-und-beschlussfassung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -294,13 +352,13 @@ Die Studierendenschaft der Hochschule Niederrhein gibt sich diese Satzung, um di
 
 4) <a id="p11-3"></a>Der AStA fasst seine Beschlüsse mit der einfachen Mehrheit der anwesenden AStA-Mitglieder. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. Das Nähere, insbesondere zur Sitzungsleitung und Beschlussfähigkeit, regelt die vom StuPa zu beschließende Geschäftsordnung des AStA.
 
-### § 17 Zusammensetzung  <a id="p12"></a>
+### § 21 Zusammensetzung  <a id="p12"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p12-zusammensetzung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p12-zusammensetzung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 Der AStA besteht aus dem Vorstand und den Referierenden.
 
-### § 18 Der AStA-Vorstand  <a id="p13"></a>
+### § 22 Der AStA-Vorstand  <a id="p13"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p13-der-asta-vorstand.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p13-der-asta-vorstand.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -314,7 +372,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 5) <a id="p13-3"></a>Bei der Aufstellung von Kandidaturen soll auf geschlechterparitätische Ausgewogenheit sowie auf die Berücksichtigung Studierender aller Standorte (Campus) geachtet werden.
 
-### § 19 Referierende  <a id="p14"></a>
+### § 23 Referierende  <a id="p14"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p14-referierende.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p14-referierende.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -322,13 +380,13 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 2) <a id="p14-2"></a>Referierende werden vom AStA-Vorstand vorgeschlagen und vom StuPa bestätigt. Sie können auf Antrag des AStA-Vorstands oder durch Beschluss des StuPa mit einfacher Mehrheit abberufen werden.
 
-### § 20 Finanzreferat  <a id="p15"></a>
+### § 24 Finanzreferat  <a id="p15"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p15-finanzreferat.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p15-finanzreferat.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 1) <a id="p15-1"></a>Das Finanzreferat ist für die ordnungsgemäße Haushalts- und Wirtschaftsführung der Studierendenschaft nach Maßgabe der gesetzlichen Bestimmungen, insbesondere der Haushalts- und Wirtschaftsführungs-Verordnung der Studierendenschaften NRW (HWVO NRW), und der Finanzordnung verantwortlich.
 
-2) <a id="p15-2"></a>Die Leitung des Finanzreferats wird gesondert vom Studierendenparlament mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder gewählt. Eine vorzeitige Abwahl ist nur durch die gleichzeitige Wahl einer Nachfolge (konstruktives Misstrauensvotum) möglich. Für den Antrag auf Abwahl und das Verfahren gelten [§ 18 Absatz 2](#p13-4) und [§ 18 Absatz 3](#p13-5) entsprechend.
+2) <a id="p15-2"></a>Die Leitung des Finanzreferats wird gesondert vom Studierendenparlament mit der absoluten Mehrheit seiner stimmberechtigten Mitglieder gewählt. Eine vorzeitige Abwahl ist nur durch die gleichzeitige Wahl einer Nachfolge (konstruktives Misstrauensvotum) möglich. Für den Antrag auf Abwahl und das Verfahren gelten [§ 22 Absatz 2](#p13-4) und [§ 22 Absatz 3](#p13-5) entsprechend.
 
 3) <a id="p15-3"></a>Dem Finanzreferat steht bei Beschlüssen des AStA und des Studierendenparlaments, welche die finanziellen Interessen der Studierendenschaft gefährden oder gegen die Grundsätze der Wirtschaftlichkeit und Sparsamkeit verstoßen, ein aufschiebendes Veto-Recht zu. Das Nähere regelt die Finanzordnung.
 
@@ -336,7 +394,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 ## Teil 4 Unmittelbare studentische Teilhabe
 
-### § 21 Urabstimmung  <a id="p16"></a>
+### § 25 Urabstimmung  <a id="p16"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p16-urabstimmung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p16-urabstimmung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -356,7 +414,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 5) <a id="p16-5"></a>Beschlüsse der Urabstimmung sind für das StuPa und den AStA bindend, wenn mindestens 20 Prozent der Mitglieder der Studierendenschaft zustimmen.
 
-### § 22 Vollversammlung  <a id="p17"></a>
+### § 26 Vollversammlung  <a id="p17"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p17-vollversammlung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p17-vollversammlung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -382,7 +440,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 ## Teil 5 Interessenvertretung und studentisches Engagement
 
-### § 23 Autonome Referate  <a id="p18"></a>
+### § 27 Autonome Referate  <a id="p18"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p18-autonome-referate.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p18-autonome-referate.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -402,7 +460,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 5) <a id="p18-5"></a>Den Autonomen Referaten sind im Haushaltsplan angemessene finanzielle Mittel zur eigenständigen Bewirtschaftung zur Verfügung zu stellen.
 
-### § 24 Studentische Hochschulgruppen und Initiativen  <a id="p19"></a>
+### § 28 Studentische Hochschulgruppen und Initiativen  <a id="p19"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p19-studentische-hochschulgruppen-und-initiativen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p19-studentische-hochschulgruppen-und-initiativen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -414,7 +472,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 ## Teil 6 Fachschaften
 
-### § 25 Gliederung und Organe  <a id="p20"></a>
+### § 29 Gliederung und Organe  <a id="p20"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p20-gliederung-und-organe.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p20-gliederung-und-organe.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -422,13 +480,21 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 2) <a id="p20-2"></a>Organe der Fachschaft sind die Fachschaftsvollversammlung und der Fachschaftsrat (FSR).
 
-3) <a id="p20-3"></a>Ein Fachschaftsrat besteht aus einem Vorsitz, einer Stellvertretung und 8 weiteren Mitgliedern (insgesamt 10 Mitglieder).
+3) <a id="p20-3"></a>Ein Fachschaftsrat besteht aus einem Vorsitz, einer Stellvertretung und weiteren Mitgliedern. Die Gesamtzahl der Mitglieder richtet sich nach der Zahl der Studierenden des Fachbereichs und beträgt
 
-4) <a id="p20-4"></a>Alles Weitere regelt eine vom StuPa zu beschließende Fachschaftsrahmenordnung.
+   1. 6 Mitglieder bei bis zu 1 000 Studierenden,
+
+   2. 8 Mitglieder bei 1 001 bis 2 000 Studierenden und
+
+   3. 10 Mitglieder bei mehr als 2 000 Studierenden.
+
+4) <a id="p20-5"></a>Maßgeblich ist die Zahl der eingeschriebenen Studierenden des Fachbereichs zu Beginn des Semesters, in dem der Fachschaftsrat gewählt wird.
+
+5) <a id="p20-4"></a>Alles Weitere regelt eine vom StuPa zu beschließende Fachschaftsrahmenordnung.
 
 ## Teil 7 Rechtsprechung und Schlichtung
 
-### § 26 Schlichtungsrat  <a id="p21"></a>
+### § 30 Schlichtungsrat  <a id="p21"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p21-schlichtungsrat.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p21-schlichtungsrat.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -438,7 +504,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 ## Teil 8 Haushalts- und Kassenwesen
 
-### § 27 Finanzen und Beiträge  <a id="p22"></a>
+### § 31 Finanzen und Beiträge  <a id="p22"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p22-finanzen-und-beitraege.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p22-finanzen-und-beitraege.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -454,7 +520,7 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 ## Teil 9 Schlussbestimmungen
 
-### § 28 Ergänzende Ordnungen  <a id="p23"></a>
+### § 32 Ergänzende Ordnungen  <a id="p23"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p23-ergaenzende-ordnungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p23-ergaenzende-ordnungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -472,13 +538,13 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 2) <a id="p23-2"></a>Darüber hinaus können Musterordnungen, zum Beispiel für Autonome Referate oder Hochschulgruppen, erlassen werden.
 
-### § 29 Satzungsänderung  <a id="p24"></a>
+### § 33 Satzungsänderung  <a id="p24"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p24-satzungsaenderung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p24-satzungsaenderung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
 <a id="p24-1"></a>Änderungen dieser Satzung bedürfen eines Beschlusses mit einer Mehrheit der Mitglieder des Studierendenparlaments.
 
-### § 30 Übergangsbestimmungen  <a id="p24a"></a>
+### § 34 Übergangsbestimmungen  <a id="p24a"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p24a-uebergangsbestimmungen.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p24a-uebergangsbestimmungen.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
@@ -486,7 +552,15 @@ Der AStA besteht aus dem Vorstand und den Referierenden.
 
 2) <a id="p24a-2"></a>Ordnungen, die auf Grundlage der bisherigen Satzung erlassen wurden, gelten fort, soweit sie dieser Satzung nicht widersprechen.
 
-### § 31 Inkrafttreten und Außerkrafttreten  <a id="p25"></a>
+3) <a id="p24a-3"></a>Die Zahl der Mitglieder der Fachschaftsräte nach dieser Satzung gilt erstmals für die Wahl, die auf das Inkrafttreten dieser Satzung folgt.
+
+### § 35 Überprüfung  <a id="p24b"></a>
+
+<sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p24b-ueberpruefung.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p24b-ueberpruefung.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
+
+<a id="p24b-1"></a>Das StuPa überprüft die Regelungen über das Ruhen von Mandat und Amt nach [§ 8](#p6a) und über die Kooptation nach [§ 9](#p6b) spätestens nach Ablauf von 2 Wahlperioden seit Inkrafttreten dieser Satzung. Das Präsidium legt dazu einen Bericht vor, wie oft und in welchen Gremien die Regelungen angewendet wurden.
+
+### § 36 Inkrafttreten und Außerkrafttreten  <a id="p25"></a>
 
 <sub>[✏️ Diesen Paragraphen bearbeiten](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/edit/main/satzung/satzung-der-studierendenschaft/p25-inkrafttreten-und-ausserkrafttreten.md) · [➕ Neuen Paragraphen danach einfügen](https://github.com/sekiamo/ordnungen-satzungen-stupa-hsnr/new/main/satzung/satzung-der-studierendenschaft?filename=neu.md&value=%3C%21--%20einfuegen-nach%3A%20p25-inkrafttreten-und-ausserkrafttreten.md%20--%3E%0A%23%23%23%20%C2%A7%20N%20Titel%20%20%3Ca%20id%3D%22pN%22%3E%3C%2Fa%3E%0A%0A1%29%20%3Ca%20id%3D%22pN-1%22%3E%3C%2Fa%3EText%20des%20ersten%20Absatzes.%0A)</sub>
 
